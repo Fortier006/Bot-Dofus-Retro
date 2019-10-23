@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3445</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga de Pyogum</NOMBRE>
+  <NIVEL>33</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;30&amp;CV&gt;6</CONDICIONES>
+  <STATS_ARMA>11,3,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

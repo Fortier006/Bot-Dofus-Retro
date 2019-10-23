@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5214</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Gucapa</NOMBRE>
+  <NIVEL>35</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;19&amp;CS&gt;19</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

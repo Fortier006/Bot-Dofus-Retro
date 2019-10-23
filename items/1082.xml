@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1082</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Gran Martillo Aerodinámico</NOMBRE>
+  <NIVEL>65</NIVEL>
+  <PODS>50</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;28&amp;CS&gt;28</CONDICIONES>
+  <STATS_ARMA>10,6,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

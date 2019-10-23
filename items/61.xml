@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>61</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Gran Espada Dha</NOMBRE>
+  <NIVEL>16</NIVEL>
+  <PODS>40</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;32&amp;CV&gt;8</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

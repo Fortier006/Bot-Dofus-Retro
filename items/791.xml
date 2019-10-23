@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>791</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Abraknydi Vivitus</NOMBRE>
+  <NIVEL>34</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;30&amp;CI&gt;34&amp;CW&gt;15</CONDICIONES>
+  <STATS_ARMA>5,2,1,1,50,30,0,0,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4747</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Naikas</NOMBRE>
+  <NIVEL>26</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;28&amp;CS&gt;12</CONDICIONES>
+  <STATS_ARMA>11,4,2,4,30,50,0,1,1</STATS_ARMA>
+</RECORD>

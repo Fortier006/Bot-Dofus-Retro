@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2906</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Hyumuie</NOMBRE>
+  <NIVEL>55</NIVEL>
+  <PODS>27</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;52</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

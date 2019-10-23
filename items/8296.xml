@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8296</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Dragohuevo</NOMBRE>
+  <NIVEL>124</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;100&amp;CA&gt;200</CONDICIONES>
+  <STATS_ARMA>5,3,2,5,30,30,0,1,0</STATS_ARMA>
+</RECORD>

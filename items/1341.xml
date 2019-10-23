@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1341</ID>
+  <TIPO>26</TIPO>
+  <NOMBRE>Pócima de Chaparrón</NOMBRE>
+  <NIVEL>25</NIVEL>
+  <PODS>6</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>Pj=48|Pj=49|Pj=50|Pj=46|Pj=44|Pj=45|Pj=43|Pj=47</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

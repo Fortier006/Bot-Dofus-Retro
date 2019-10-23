@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5916</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Fotum</NOMBRE>
+  <NIVEL>123</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;130&amp;CS&gt;48</CONDICIONES>
+  <STATS_ARMA>3,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

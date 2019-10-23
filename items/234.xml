@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>234</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Ragnarok</NOMBRE>
+  <NIVEL>66</NIVEL>
+  <PODS>60</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;40&amp;CI&gt;40&amp;CW&gt;10</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,45,100,0,0,0</STATS_ARMA>
+</RECORD>

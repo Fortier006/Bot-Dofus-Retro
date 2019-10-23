@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3133</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Wemama</NOMBRE>
+  <NIVEL>116</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;112</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

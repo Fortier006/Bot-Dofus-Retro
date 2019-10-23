@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4979</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Doumaki</NOMBRE>
+  <NIVEL>103</NIVEL>
+  <PODS>31</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;93</CONDICIONES>
+  <STATS_ARMA>6,4,2,4,30,50,0,1,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2614</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha Damesa</NOMBRE>
+  <NIVEL>90</NIVEL>
+  <PODS>28</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;150&amp;CW&gt;50&amp;CS&gt;250</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,40,40,0,0,1</STATS_ARMA>
+</RECORD>

@@ -13,15 +13,15 @@ namespace Bot_Dofus_1._29._1.Otros.Scripts.Api
     [MoonSharpUserData]
     public class PersonajeApi
     {
-        private Account cuenta;
+        private Cuenta cuenta;
         private bool disposed = false;
 
-        public PersonajeApi(Account _cuenta) => cuenta = _cuenta;
+        public PersonajeApi(Cuenta _cuenta) => cuenta = _cuenta;
 
-        public string nombre() => cuenta.game.personaje.nombre;
-        public byte nivel() => cuenta.game.personaje.nivel;
-        public int experiencia() => cuenta.game.personaje.porcentaje_experiencia;
-        public int kamas() => cuenta.game.personaje.kamas;
+        public string nombre() => cuenta.juego.personaje.nombre;
+        public byte nivel() => cuenta.juego.personaje.nivel;
+        public int experiencia() => cuenta.juego.personaje.porcentaje_experiencia;
+        public int kamas() => cuenta.juego.personaje.kamas;
 
         #region Zona Dispose
         ~PersonajeApi() => Dispose(false);

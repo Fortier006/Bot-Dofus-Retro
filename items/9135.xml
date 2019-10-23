@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9135</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Variterela</NOMBRE>
+  <NIVEL>184</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;300&amp;CA&gt;300</CONDICIONES>
+  <STATS_ARMA>5,4,2,4,45,50,0,1,0</STATS_ARMA>
+</RECORD>

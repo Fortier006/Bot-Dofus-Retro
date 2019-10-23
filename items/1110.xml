@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1110</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de magia falsa</NOMBRE>
+  <NIVEL>25</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;35</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,50,50,0,1,0</STATS_ARMA>
+</RECORD>

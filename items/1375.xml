@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1375</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha Al-Terófilo</NOMBRE>
+  <NIVEL>15</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;70&amp;CI&lt;10</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,50,50,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5391</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Ohemdar</NOMBRE>
+  <NIVEL>94</NIVEL>
+  <PODS>31</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;56&amp;CS&gt;29</CONDICIONES>
+  <STATS_ARMA>3,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

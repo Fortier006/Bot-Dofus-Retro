@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5755</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Ohosoth</NOMBRE>
+  <NIVEL>69</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;58&amp;CS&gt;25</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

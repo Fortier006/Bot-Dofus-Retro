@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1703</ID>
+  <TIPO>81</TIPO>
+  <NOMBRE>Mochila del Gran Recolector</NOMBRE>
+  <NIVEL>20</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ&gt;2,60|PJ&gt;24,60|PJ&gt;36,60|PJ&gt;28,60|PJ&gt;26,60|PJ&gt;41,60</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

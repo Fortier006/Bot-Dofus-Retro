@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3801</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga de Pelteux</NOMBRE>
+  <NIVEL>150</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;157</CONDICIONES>
+  <STATS_ARMA>12,3,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

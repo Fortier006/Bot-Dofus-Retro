@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7650</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo del Manitas</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>5,6,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

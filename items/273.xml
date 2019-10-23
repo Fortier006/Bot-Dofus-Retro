@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>273</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>La Cuerda de Yamato</NOMBRE>
+  <NIVEL>33</NIVEL>
+  <PODS>18</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;33&amp;CS&gt;10</CONDICIONES>
+  <STATS_ARMA>10,4,2,7,30,50,0,0,1</STATS_ARMA>
+</RECORD>

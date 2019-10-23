@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5038</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Ezete</NOMBRE>
+  <NIVEL>123</NIVEL>
+  <PODS>33</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;118</CONDICIONES>
+  <STATS_ARMA>7,4,3,7,30,50,0,1,1</STATS_ARMA>
+</RECORD>

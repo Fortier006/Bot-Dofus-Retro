@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6536</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala del minero oscuro</NOMBRE>
+  <NIVEL>120</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;250&amp;CV&gt;100&amp;CS&gt;75</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,60,60,0,0,0</STATS_ARMA>
+</RECORD>

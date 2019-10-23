@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1113</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Diquea</NOMBRE>
+  <NIVEL>35</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;40&amp;CS&gt;2&amp;CI&gt;2</CONDICIONES>
+  <STATS_ARMA>12,4,2,7,50,50,0,1,1</STATS_ARMA>
+</RECORD>

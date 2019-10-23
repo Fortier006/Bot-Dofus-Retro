@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2593</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Podadora de olivioleta</NOMBRE>
+  <NIVEL>42</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;60</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

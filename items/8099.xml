@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8099</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha Pronto</NOMBRE>
+  <NIVEL>116</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;120&amp;CV&gt;150</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,35,50,0,0,1</STATS_ARMA>
+</RECORD>

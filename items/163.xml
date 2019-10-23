@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>163</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Hielo</NOMBRE>
+  <NIVEL>13</NIVEL>
+  <PODS>12</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;26</CONDICIONES>
+  <STATS_ARMA>5,4,2,2,50,50,0,1,0</STATS_ARMA>
+</RECORD>

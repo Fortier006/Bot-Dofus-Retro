@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8292</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada del dragohuevo</NOMBRE>
+  <NIVEL>127</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;200&amp;CA&gt;200</CONDICIONES>
+  <STATS_ARMA>8,5,1,1,40,50,0,1,0</STATS_ARMA>
+</RECORD>

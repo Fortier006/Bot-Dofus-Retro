@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9759</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón Nell\'Hada</NOMBRE>
+  <NIVEL>70</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;35&amp;CS&gt;35&amp;CC&gt;35&amp;CI&gt;35&amp;CV&gt;70</CONDICIONES>
+  <STATS_ARMA>2,6,1,1,40,40,0,0,1</STATS_ARMA>
+</RECORD>

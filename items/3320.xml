@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3320</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Ukeda</NOMBRE>
+  <NIVEL>115</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;114</CONDICIONES>
+  <STATS_ARMA>4,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

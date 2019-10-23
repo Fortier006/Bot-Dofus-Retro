@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7164</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Angélico</NOMBRE>
+  <NIVEL>143</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;120&amp;CI&gt;120&amp;CC&gt;120&amp;CV&gt;300</CONDICIONES>
+  <STATS_ARMA>5,5,2,6,30,50,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6280</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Tenorub</NOMBRE>
+  <NIVEL>98</NIVEL>
+  <PODS>21</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;81</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5321</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Laralibak</NOMBRE>
+  <NIVEL>71</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;42&amp;CS&gt;36</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

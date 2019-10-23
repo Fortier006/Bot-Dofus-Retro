@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8255</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Esponja</NOMBRE>
+  <NIVEL>10</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>5,5,1,1,50,50,0,1,0</STATS_ARMA>
+</RECORD>

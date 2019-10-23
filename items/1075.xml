@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1075</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Imponente martillo Pacificador</NOMBRE>
+  <NIVEL>48</NIVEL>
+  <PODS>50</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;42&amp;CI&gt;10</CONDICIONES>
+  <STATS_ARMA>15,5,1,1,60,40,0,0,0</STATS_ARMA>
+</RECORD>

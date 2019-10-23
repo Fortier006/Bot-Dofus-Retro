@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1145</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Gran Varita de Líder</NOMBRE>
+  <NIVEL>66</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;90</CONDICIONES>
+  <STATS_ARMA>5,4,2,4,50,50,0,1,0</STATS_ARMA>
+</RECORD>

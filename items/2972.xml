@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2972</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Trudik</NOMBRE>
+  <NIVEL>88</NIVEL>
+  <PODS>21</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;86</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

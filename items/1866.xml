@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1866</ID>
+  <TIPO>20</TIPO>
+  <NOMBRE>Caña de pescar estándar</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>3</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ&gt;36,9</CONDICIONES>
+  <STATS_ARMA>1,4,1,3,100,100,0,0,0</STATS_ARMA>
+</RECORD>

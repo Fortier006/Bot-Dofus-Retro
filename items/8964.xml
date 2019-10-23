@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8964</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Pata de Zurcarák</NOMBRE>
+  <NIVEL>100</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;150</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,50,40,0,0,1</STATS_ARMA>
+</RECORD>

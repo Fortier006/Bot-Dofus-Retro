@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4946</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Aegefauc</NOMBRE>
+  <NIVEL>92</NIVEL>
+  <PODS>28</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;92</CONDICIONES>
+  <STATS_ARMA>7,4,2,7,30,50,0,1,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2796</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Rugiri</NOMBRE>
+  <NIVEL>47</NIVEL>
+  <PODS>16</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;47</CONDICIONES>
+  <STATS_ARMA>2,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

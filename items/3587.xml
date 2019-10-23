@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3587</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga de Otukule</NOMBRE>
+  <NIVEL>81</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;81</CONDICIONES>
+  <STATS_ARMA>8,3,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

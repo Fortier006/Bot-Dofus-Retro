@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4683</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Lalamu</NOMBRE>
+  <NIVEL>5</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;5</CONDICIONES>
+  <STATS_ARMA>11,4,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

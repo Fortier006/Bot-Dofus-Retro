@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5800</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Mylumebu</NOMBRE>
+  <NIVEL>84</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;88</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

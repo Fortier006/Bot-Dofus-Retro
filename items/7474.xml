@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7474</ID>
+  <TIPO>88</TIPO>
+  <NOMBRE>Runa del Forjador de Martillos</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ=14</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

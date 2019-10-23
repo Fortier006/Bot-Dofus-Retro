@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8611</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Vagdita Café</NOMBRE>
+  <NIVEL>72</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;100&amp;CC&gt;100</CONDICIONES>
+  <STATS_ARMA>5,3,2,4,15,50,0,1,0</STATS_ARMA>
+</RECORD>

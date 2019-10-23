@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4380</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Bocah</NOMBRE>
+  <NIVEL>50</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;51</CONDICIONES>
+  <STATS_ARMA>4,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

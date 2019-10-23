@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4941</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Ehobic</NOMBRE>
+  <NIVEL>90</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;98</CONDICIONES>
+  <STATS_ARMA>11,4,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

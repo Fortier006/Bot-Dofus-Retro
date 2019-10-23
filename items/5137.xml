@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5137</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Fukuveuf</NOMBRE>
+  <NIVEL>9</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;6&amp;CI&gt;6</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

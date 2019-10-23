@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1040</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Cuchillos Sangrientos de Ortimus Contrari</NOMBRE>
+  <NIVEL>80</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;79&amp;CS&gt;40</CONDICIONES>
+  <STATS_ARMA>15,3,1,1,20,50,0,0,0</STATS_ARMA>
+</RECORD>

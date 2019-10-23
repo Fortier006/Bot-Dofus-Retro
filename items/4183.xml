@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4183</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Neubem</NOMBRE>
+  <NIVEL>131</NIVEL>
+  <PODS>34</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;125&amp;CS&gt;62&amp;CV&gt;61</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

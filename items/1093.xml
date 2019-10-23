@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1093</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Buz</NOMBRE>
+  <NIVEL>18</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;17&amp;CS&gt;28</CONDICIONES>
+  <STATS_ARMA>10,4,2,6,30,50,0,1,1</STATS_ARMA>
+</RECORD>

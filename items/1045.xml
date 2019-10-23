@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1045</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Magnífica Pala de Vello Durmiente</NOMBRE>
+  <NIVEL>43</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;4&amp;CC&gt;30</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5393</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Kreregur</NOMBRE>
+  <NIVEL>95</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;50&amp;CS&gt;19</CONDICIONES>
+  <STATS_ARMA>2,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

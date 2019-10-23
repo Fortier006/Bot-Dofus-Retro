@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6134</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Malonum</NOMBRE>
+  <NIVEL>49</NIVEL>
+  <PODS>34</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;50</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,40,25,0,1,0</STATS_ARMA>
+</RECORD>

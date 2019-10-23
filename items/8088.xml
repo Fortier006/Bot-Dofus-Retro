@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8088</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Gyver</NOMBRE>
+  <NIVEL>128</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;250</CONDICIONES>
+  <STATS_ARMA>5,5,2,5,40,50,0,1,0</STATS_ARMA>
+</RECORD>

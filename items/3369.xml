@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3369</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga de Dlaedos</NOMBRE>
+  <NIVEL>8</NIVEL>
+  <PODS>34</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;8</CONDICIONES>
+  <STATS_ARMA>5,3,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6402</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Tigehour</NOMBRE>
+  <NIVEL>139</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;159</CONDICIONES>
+  <STATS_ARMA>4,6,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

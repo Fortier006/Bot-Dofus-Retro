@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1103</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Gran Varita Hora</NOMBRE>
+  <NIVEL>25</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;29&amp;CS&gt;3</CONDICIONES>
+  <STATS_ARMA>10,3,2,3,30,50,0,1,0</STATS_ARMA>
+</RECORD>

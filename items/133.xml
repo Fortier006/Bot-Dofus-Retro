@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>133</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Gran Varita de Maderucha</NOMBRE>
+  <NIVEL>4</NIVEL>
+  <PODS>12</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;8</CONDICIONES>
+  <STATS_ARMA>5,4,2,3,50,50,0,1,0</STATS_ARMA>
+</RECORD>

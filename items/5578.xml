@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5578</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Odegibat</NOMBRE>
+  <NIVEL>10</NIVEL>
+  <PODS>33</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;9&amp;CS&gt;6</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

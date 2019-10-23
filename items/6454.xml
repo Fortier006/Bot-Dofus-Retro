@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6454</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Paloabra oscuro</NOMBRE>
+  <NIVEL>87</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;150&amp;CW&gt;50</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,50,0,0,1</STATS_ARMA>
+</RECORD>

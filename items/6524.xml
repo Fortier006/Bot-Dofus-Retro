@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6524</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Raíz del plantón salvaje</NOMBRE>
+  <NIVEL>54</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PG=10</CONDICIONES>
+  <STATS_ARMA>5,3,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

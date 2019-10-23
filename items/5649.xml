@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5649</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Pagiraf</NOMBRE>
+  <NIVEL>34</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;29&amp;CS&gt;13</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

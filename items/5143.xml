@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5143</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Heteth</NOMBRE>
+  <NIVEL>11</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;8&amp;CS&gt;4</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,25,60,0,1,0</STATS_ARMA>
+</RECORD>

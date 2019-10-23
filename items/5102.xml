@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5102</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Mawacal</NOMBRE>
+  <NIVEL>144</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;153</CONDICIONES>
+  <STATS_ARMA>5,4,3,6,30,50,0,1,1</STATS_ARMA>
+</RECORD>

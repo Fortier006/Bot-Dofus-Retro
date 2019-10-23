@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5745</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Ranikim</NOMBRE>
+  <NIVEL>66</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;76&amp;CS&gt;16</CONDICIONES>
+  <STATS_ARMA>2,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

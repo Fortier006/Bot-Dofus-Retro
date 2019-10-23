@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>66</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Las crines de Badulo</NOMBRE>
+  <NIVEL>33</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;66</CONDICIONES>
+  <STATS_ARMA>10,6,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4662</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Acofituf</NOMBRE>
+  <NIVEL>144</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;145&amp;CV&gt;66</CONDICIONES>
+  <STATS_ARMA>4,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4143</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Afelolap</NOMBRE>
+  <NIVEL>118</NIVEL>
+  <PODS>34</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;131</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

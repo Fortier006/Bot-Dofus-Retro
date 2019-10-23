@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5011</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Zarolillion</NOMBRE>
+  <NIVEL>114</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;117</CONDICIONES>
+  <STATS_ARMA>9,4,3,5,30,50,0,1,1</STATS_ARMA>
+</RECORD>

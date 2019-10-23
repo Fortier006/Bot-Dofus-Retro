@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>492</ID>
+  <TIPO>20</TIPO>
+  <NOMBRE>Rodillo de panadero</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>8</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>50,6,1,1,500,10,0,0,1</STATS_ARMA>
+</RECORD>

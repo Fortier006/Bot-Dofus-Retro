@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3346</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Hegohorth</NOMBRE>
+  <NIVEL>141</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;136&amp;CV&gt;69</CONDICIONES>
+  <STATS_ARMA>2,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

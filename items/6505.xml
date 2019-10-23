@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6505</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo Taurino</NOMBRE>
+  <NIVEL>100</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;100&amp;CW&gt;40&amp;CS&gt;50</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,50,50,0,0,1</STATS_ARMA>
+</RECORD>

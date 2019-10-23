@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4851</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Telemal</NOMBRE>
+  <NIVEL>60</NIVEL>
+  <PODS>36</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;67</CONDICIONES>
+  <STATS_ARMA>12,4,3,7,30,50,0,1,1</STATS_ARMA>
+</RECORD>

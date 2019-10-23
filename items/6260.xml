@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6260</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Xuthoke</NOMBRE>
+  <NIVEL>91</NIVEL>
+  <PODS>27</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;107</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2981</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Mulnef</NOMBRE>
+  <NIVEL>92</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;88&amp;CV&gt;43</CONDICIONES>
+  <STATS_ARMA>1,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

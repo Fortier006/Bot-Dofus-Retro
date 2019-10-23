@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5607</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Lifepidu</NOMBRE>
+  <NIVEL>20</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;21</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

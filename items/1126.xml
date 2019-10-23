@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1126</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Roberto del Monte</NOMBRE>
+  <NIVEL>60</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;80&amp;CA&gt;50</CONDICIONES>
+  <STATS_ARMA>11,5,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

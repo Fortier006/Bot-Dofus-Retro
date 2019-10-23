@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1357</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varidaga</NOMBRE>
+  <NIVEL>35</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;25</CONDICIONES>
+  <STATS_ARMA>5,4,2,2,40,40,0,1,0</STATS_ARMA>
+</RECORD>

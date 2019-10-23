@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1574</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Trinchadora de Canes</NOMBRE>
+  <NIVEL>60</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>10,5,1,1,40,40,0,0,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5055</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Surevlel</NOMBRE>
+  <NIVEL>128</NIVEL>
+  <PODS>36</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;126</CONDICIONES>
+  <STATS_ARMA>9,4,4,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>491</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Engastador</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>5,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

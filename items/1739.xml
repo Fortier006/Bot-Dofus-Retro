@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1739</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Fogosa</NOMBRE>
+  <NIVEL>80</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;60&amp;CV&gt;40</CONDICIONES>
+  <STATS_ARMA>5,4,2,3,40,50,0,1,0</STATS_ARMA>
+</RECORD>

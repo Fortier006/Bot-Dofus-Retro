@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6516</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Dagas R\'Hoh</NOMBRE>
+  <NIVEL>121</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;150&amp;CS&gt;100&amp;CV&gt;100</CONDICIONES>
+  <STATS_ARMA>10,3,1,1,30,50,0,0,1</STATS_ARMA>
+</RECORD>

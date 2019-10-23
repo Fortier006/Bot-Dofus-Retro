@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3999</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Malulo</NOMBRE>
+  <NIVEL>70</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;84</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

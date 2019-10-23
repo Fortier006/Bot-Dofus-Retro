@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4626</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Tucukis</NOMBRE>
+  <NIVEL>132</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;125</CONDICIONES>
+  <STATS_ARMA>6,4,2,3,50,40,0,1,0</STATS_ARMA>
+</RECORD>

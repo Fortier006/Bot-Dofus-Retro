@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6102</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Rurosarh</NOMBRE>
+  <NIVEL>39</NIVEL>
+  <PODS>29</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;43</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

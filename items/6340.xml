@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6340</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Aelelydae</NOMBRE>
+  <NIVEL>118</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;106</CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

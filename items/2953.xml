@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2953</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Loberi</NOMBRE>
+  <NIVEL>78</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;85</CONDICIONES>
+  <STATS_ARMA>2,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

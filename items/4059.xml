@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4059</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Lafurife</NOMBRE>
+  <NIVEL>90</NIVEL>
+  <PODS>33</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;92</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

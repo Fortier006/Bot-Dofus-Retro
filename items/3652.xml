@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3652</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de María Pluma</NOMBRE>
+  <NIVEL>112</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;250&amp;CA&gt;100&amp;CV&gt;100</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,40,0,0,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6081</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Benuie</NOMBRE>
+  <NIVEL>32</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;34</CONDICIONES>
+  <STATS_ARMA>4,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

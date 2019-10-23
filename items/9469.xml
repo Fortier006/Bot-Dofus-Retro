@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9469</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada Bama</NOMBRE>
+  <NIVEL>184</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;300&amp;CA&gt;300</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

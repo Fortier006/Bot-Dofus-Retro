@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1132</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Ni\'Ninnin</NOMBRE>
+  <NIVEL>50</NIVEL>
+  <PODS>5</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;99&amp;CW&gt;20</CONDICIONES>
+  <STATS_ARMA>10,4,2,4,50,30,0,1,0</STATS_ARMA>
+</RECORD>

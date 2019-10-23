@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6264</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Itoupas</NOMBRE>
+  <NIVEL>93</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;93&amp;CW&gt;9</CONDICIONES>
+  <STATS_ARMA>3,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1367</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Dina Mita</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;50&amp;CA&gt;40</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,30,50,0,1,0</STATS_ARMA>
+</RECORD>

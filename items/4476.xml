@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4476</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Tahapo</NOMBRE>
+  <NIVEL>82</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;75</CONDICIONES>
+  <STATS_ARMA>6,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

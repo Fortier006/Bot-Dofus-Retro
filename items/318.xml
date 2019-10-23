@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>318</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón del Tabi</NOMBRE>
+  <NIVEL>34</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;20</CONDICIONES>
+  <STATS_ARMA>5,3,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

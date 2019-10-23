@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6495</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita del Roble Blando</NOMBRE>
+  <NIVEL>172</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;400&amp;CC&gt;250&amp;CW&gt;150</CONDICIONES>
+  <STATS_ARMA>7,3,3,4,45,70,0,1,1</STATS_ARMA>
+</RECORD>

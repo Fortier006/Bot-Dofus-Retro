@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1939</ID>
+  <TIPO>20</TIPO>
+  <NOMBRE>Lanza de caza</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>2</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ&gt;41,49</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7102</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada del Caballero de Hielo</NOMBRE>
+  <NIVEL>12</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,60,0,0,0</STATS_ARMA>
+</RECORD>

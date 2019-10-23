@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7185</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Raíz Cúbica</NOMBRE>
+  <NIVEL>103</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;200&amp;CW&gt;150</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

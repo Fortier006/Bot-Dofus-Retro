@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1153</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón-Bola de Vidente</NOMBRE>
+  <NIVEL>35</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CW&gt;10&amp;CA&gt;30</CONDICIONES>
+  <STATS_ARMA>6,3,1,1,40,50,0,1,0</STATS_ARMA>
+</RECORD>

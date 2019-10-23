@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8607</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>El Bastón Claveado</NOMBRE>
+  <NIVEL>107</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;150&amp;CI&gt;150</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,30,50,0,1,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4343</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Felem</NOMBRE>
+  <NIVEL>38</NIVEL>
+  <PODS>31</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;38</CONDICIONES>
+  <STATS_ARMA>3,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5335</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Epane</NOMBRE>
+  <NIVEL>75</NIVEL>
+  <PODS>37</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;43&amp;CS&gt;30</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

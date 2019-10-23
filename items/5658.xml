@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5658</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Trodortu</NOMBRE>
+  <NIVEL>37</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;42&amp;CS&gt;12</CONDICIONES>
+  <STATS_ARMA>4,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

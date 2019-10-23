@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4710</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Afogosak</NOMBRE>
+  <NIVEL>13</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;15&amp;CS&gt;3</CONDICIONES>
+  <STATS_ARMA>12,4,2,7,30,50,0,1,1</STATS_ARMA>
+</RECORD>

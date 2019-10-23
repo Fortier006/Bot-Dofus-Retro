@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6292</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Kodlode</NOMBRE>
+  <NIVEL>102</NIVEL>
+  <PODS>33</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;90&amp;CW&gt;8</CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4055</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Etufete</NOMBRE>
+  <NIVEL>89</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;74</CONDICIONES>
+  <STATS_ARMA>4,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

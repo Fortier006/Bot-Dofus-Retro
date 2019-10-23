@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9758</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Baston Mar\'Tinh</NOMBRE>
+  <NIVEL>60</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;60&amp;CV&gt;60</CONDICIONES>
+  <STATS_ARMA>3,5,1,1,50,40,0,0,1</STATS_ARMA>
+</RECORD>

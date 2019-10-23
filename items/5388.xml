@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5388</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Cikemela</NOMBRE>
+  <NIVEL>93</NIVEL>
+  <PODS>36</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;50&amp;CI&gt;35</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

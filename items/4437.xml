@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4437</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Fepogar</NOMBRE>
+  <NIVEL>69</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;64</CONDICIONES>
+  <STATS_ARMA>6,4,2,4,50,40,0,1,0</STATS_ARMA>
+</RECORD>

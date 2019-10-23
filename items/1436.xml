@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1436</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Kran</NOMBRE>
+  <NIVEL>50</NIVEL>
+  <PODS>50</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;30&amp;CA&gt;10</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,50,50,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5692</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Apanewa</NOMBRE>
+  <NIVEL>48</NIVEL>
+  <PODS>21</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;51</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

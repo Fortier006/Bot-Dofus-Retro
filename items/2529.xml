@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2529</ID>
+  <TIPO>26</TIPO>
+  <NOMBRE>Pócima de metal líquido</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>Pj=17|Pj=31|Pj=14|Pj=11|Pj=20</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

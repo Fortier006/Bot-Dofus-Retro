@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3183</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Satekog</NOMBRE>
+  <NIVEL>141</NIVEL>
+  <PODS>28</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;151&amp;CV&gt;39</CONDICIONES>
+  <STATS_ARMA>3,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

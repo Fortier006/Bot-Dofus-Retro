@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5061</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Zarume</NOMBRE>
+  <NIVEL>130</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;144</CONDICIONES>
+  <STATS_ARMA>9,4,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

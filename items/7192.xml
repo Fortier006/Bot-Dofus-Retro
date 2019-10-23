@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7192</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Garra de Grizmoh Guay</NOMBRE>
+  <NIVEL>111</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;300&amp;CA&gt;120</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

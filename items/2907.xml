@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2907</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Ganip</NOMBRE>
+  <NIVEL>55</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;53&amp;CV&gt;28</CONDICIONES>
+  <STATS_ARMA>4,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

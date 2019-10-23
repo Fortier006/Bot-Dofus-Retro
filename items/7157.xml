@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7157</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillito Holón</NOMBRE>
+  <NIVEL>124</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;250</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,50,50,0,0,1</STATS_ARMA>
+</RECORD>

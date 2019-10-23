@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1433</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Defensiva</NOMBRE>
+  <NIVEL>60</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;60&amp;CS&gt;30&amp;CA&gt;10</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,50,50,0,1,0</STATS_ARMA>
+</RECORD>

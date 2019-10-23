@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2038</ID>
+  <TIPO>33</TIPO>
+  <NOMBRE>Pan de copos de avena aurífera</NOMBRE>
+  <NIVEL>10</NIVEL>
+  <PODS>2</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>Cv&lt;70</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

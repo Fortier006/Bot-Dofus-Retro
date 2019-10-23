@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9747</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Mar\'Hin\'Doo</NOMBRE>
+  <NIVEL>50</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;50&amp;CV&gt;50</CONDICIONES>
+  <STATS_ARMA>5,4,2,3,50,50,0,1,1</STATS_ARMA>
+</RECORD>

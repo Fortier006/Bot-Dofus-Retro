@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8838</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Rizoma del Tynril</NOMBRE>
+  <NIVEL>186</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;250&amp;CS&gt;200</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

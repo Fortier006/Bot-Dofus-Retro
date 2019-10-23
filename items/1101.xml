@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1101</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Pequeña Varita Hora</NOMBRE>
+  <NIVEL>15</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;25&amp;CS&gt;1</CONDICIONES>
+  <STATS_ARMA>10,3,2,3,30,50,0,1,0</STATS_ARMA>
+</RECORD>

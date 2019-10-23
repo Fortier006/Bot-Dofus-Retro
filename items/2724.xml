@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2724</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Ludak</NOMBRE>
+  <NIVEL>11</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;11&amp;CV&gt;3</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

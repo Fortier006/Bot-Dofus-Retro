@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7155</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo del Capitán Kodah</NOMBRE>
+  <NIVEL>113</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;150&amp;CW&gt;100&amp;PG=5</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,40,60,0,0,0</STATS_ARMA>
+</RECORD>

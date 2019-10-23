@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5006</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Kewepauw</NOMBRE>
+  <NIVEL>112</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;116&amp;CS&gt;24</CONDICIONES>
+  <STATS_ARMA>10,4,2,5,30,50,0,1,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4153</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Ululuri</NOMBRE>
+  <NIVEL>121</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;115</CONDICIONES>
+  <STATS_ARMA>3,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

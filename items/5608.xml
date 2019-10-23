@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5608</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Sohebo</NOMBRE>
+  <NIVEL>20</NIVEL>
+  <PODS>34</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;24&amp;CS&gt;4</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

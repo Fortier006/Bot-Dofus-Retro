@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>233</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Kaiser</NOMBRE>
+  <NIVEL>82</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;80&amp;CI&gt;80&amp;CA&gt;50</CONDICIONES>
+  <STATS_ARMA>20,4,1,1,30,200,0,0,0</STATS_ARMA>
+</RECORD>

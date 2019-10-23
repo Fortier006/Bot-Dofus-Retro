@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3312</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Ourene</NOMBRE>
+  <NIVEL>107</NIVEL>
+  <PODS>28</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;116&amp;CV&gt;33</CONDICIONES>
+  <STATS_ARMA>4,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

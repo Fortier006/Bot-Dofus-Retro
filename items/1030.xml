@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1030</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Colas de Gatitos</NOMBRE>
+  <NIVEL>25</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;40&amp;CS&gt;20&amp;CV&gt;20</CONDICIONES>
+  <STATS_ARMA>15,3,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

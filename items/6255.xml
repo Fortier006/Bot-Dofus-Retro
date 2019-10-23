@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6255</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Auviel</NOMBRE>
+  <NIVEL>90</NIVEL>
+  <PODS>27</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;101</CONDICIONES>
+  <STATS_ARMA>8,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5256</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Lafelatu</NOMBRE>
+  <NIVEL>49</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;29&amp;CI&gt;20</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,20,30,0,1,0</STATS_ARMA>
+</RECORD>

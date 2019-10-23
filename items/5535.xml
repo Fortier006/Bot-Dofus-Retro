@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5535</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Ajuje</NOMBRE>
+  <NIVEL>142</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;73&amp;CS&gt;36</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

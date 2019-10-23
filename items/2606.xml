@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2606</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hachilla Sabia</NOMBRE>
+  <NIVEL>81</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;50&amp;CA&gt;50&amp;CI&gt;50</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

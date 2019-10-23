@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5901</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Vovetielle</NOMBRE>
+  <NIVEL>118</NIVEL>
+  <PODS>40</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;139</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

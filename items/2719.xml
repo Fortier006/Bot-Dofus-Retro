@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2719</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Zaeole</NOMBRE>
+  <NIVEL>9</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;11</CONDICIONES>
+  <STATS_ARMA>15,5,1,1,40,60,0,1,0</STATS_ARMA>
+</RECORD>

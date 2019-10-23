@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>164</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Gran Varita de Hielo</NOMBRE>
+  <NIVEL>14</NIVEL>
+  <PODS>12</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;28</CONDICIONES>
+  <STATS_ARMA>5,4,2,2,50,50,0,1,0</STATS_ARMA>
+</RECORD>

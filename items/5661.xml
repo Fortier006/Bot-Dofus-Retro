@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5661</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Kebyadu</NOMBRE>
+  <NIVEL>38</NIVEL>
+  <PODS>36</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;33&amp;CS&gt;7&amp;CV&gt;17</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

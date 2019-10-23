@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1067</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Imponente martillo R\'único</NOMBRE>
+  <NIVEL>30</NIVEL>
+  <PODS>45</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;34&amp;CS&gt;6</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

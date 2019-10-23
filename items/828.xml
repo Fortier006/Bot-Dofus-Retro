@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>828</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Silbante</NOMBRE>
+  <NIVEL>11</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;11&amp;CS&gt;5</CONDICIONES>
+  <STATS_ARMA>5,3,2,6,30,40,0,1,1</STATS_ARMA>
+</RECORD>

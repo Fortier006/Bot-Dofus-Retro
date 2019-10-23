@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4354</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Alwyle</NOMBRE>
+  <NIVEL>42</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;41&amp;CV&gt;10</CONDICIONES>
+  <STATS_ARMA>4,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4422</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Enenala</NOMBRE>
+  <NIVEL>64</NIVEL>
+  <PODS>27</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;66</CONDICIONES>
+  <STATS_ARMA>4,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

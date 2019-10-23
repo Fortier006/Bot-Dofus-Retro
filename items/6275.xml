@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6275</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Rareri</NOMBRE>
+  <NIVEL>96</NIVEL>
+  <PODS>29</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;96&amp;CV&gt;22</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

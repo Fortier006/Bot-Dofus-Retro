@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6213</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Sasel</NOMBRE>
+  <NIVEL>76</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;87</CONDICIONES>
+  <STATS_ARMA>8,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

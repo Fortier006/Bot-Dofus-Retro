@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4612</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Aleze</NOMBRE>
+  <NIVEL>127</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;136</CONDICIONES>
+  <STATS_ARMA>1,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

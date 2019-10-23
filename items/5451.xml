@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5451</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Nosamefo</NOMBRE>
+  <NIVEL>114</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;66&amp;CS&gt;52</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

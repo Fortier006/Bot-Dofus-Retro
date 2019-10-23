@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>10125</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco del Bandido Arquero</NOMBRE>
+  <NIVEL>30</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>2,6,3,5,40,40,0,1,1</STATS_ARMA>
+</RECORD>

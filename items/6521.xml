@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6521</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Kelinorrama</NOMBRE>
+  <NIVEL>129</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;250&amp;CV&gt;200</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,40,0,0,1</STATS_ARMA>
+</RECORD>

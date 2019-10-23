@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8596</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Garra púrpura</NOMBRE>
+  <NIVEL>145</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;350&amp;CV&gt;400</CONDICIONES>
+  <STATS_ARMA>8,6,1,1,45,100,0,0,1</STATS_ARMA>
+</RECORD>

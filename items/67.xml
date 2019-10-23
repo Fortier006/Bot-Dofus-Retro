@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>67</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>El Filo Infernal</NOMBRE>
+  <NIVEL>22</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;44&amp;CA&gt;15</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

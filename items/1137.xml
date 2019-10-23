@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1137</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Discreta Varita de Huveta</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>12</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CW&gt;10&amp;CI&gt;45</CONDICIONES>
+  <STATS_ARMA>5,3,2,2,50,50,0,1,0</STATS_ARMA>
+</RECORD>

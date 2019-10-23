@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2779</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Turista</NOMBRE>
+  <NIVEL>39</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;44</CONDICIONES>
+  <STATS_ARMA>8,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

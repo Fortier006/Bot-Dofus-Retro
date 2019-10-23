@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>328</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Korta-Kotas</NOMBRE>
+  <NIVEL>18</NIVEL>
+  <PODS>28</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;36</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,20,60,0,0,0</STATS_ARMA>
+</RECORD>

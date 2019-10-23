@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6309</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Ekodet</NOMBRE>
+  <NIVEL>108</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;110</CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

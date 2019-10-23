@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5746</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Flerifidu</NOMBRE>
+  <NIVEL>66</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;73</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

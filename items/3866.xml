@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3866</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Flukefef</NOMBRE>
+  <NIVEL>26</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;28&amp;CS&gt;7</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

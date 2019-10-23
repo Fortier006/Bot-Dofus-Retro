@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>805</ID>
+  <TIPO>76</TIPO>
+  <NOMBRE>Poderoso Pergamino de Sabiduría</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>Cw&lt;100</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

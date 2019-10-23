@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5956</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Elebesa</NOMBRE>
+  <NIVEL>136</NIVEL>
+  <PODS>27</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;109</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

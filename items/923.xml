@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>923</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Cortadora de abráknidos</NOMBRE>
+  <NIVEL>74</NIVEL>
+  <PODS>190</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;148&amp;CW&gt;10&amp;CV&gt;30</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,45,45,0,0,0</STATS_ARMA>
+</RECORD>

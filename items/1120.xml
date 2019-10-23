@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1120</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Célebre Arco Ecológico</NOMBRE>
+  <NIVEL>33</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;35&amp;CA&gt;23</CONDICIONES>
+  <STATS_ARMA>10,6,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

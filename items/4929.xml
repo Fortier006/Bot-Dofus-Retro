@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4929</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Malage</NOMBRE>
+  <NIVEL>86</NIVEL>
+  <PODS>27</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;85&amp;CS&gt;43</CONDICIONES>
+  <STATS_ARMA>6,4,3,6,30,50,0,1,1</STATS_ARMA>
+</RECORD>

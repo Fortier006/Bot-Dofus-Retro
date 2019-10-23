@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7193</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Dark Vlad</NOMBRE>
+  <NIVEL>126</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;250&amp;CI&gt;300&amp;PG=8</CONDICIONES>
+  <STATS_ARMA>12,5,1,1,50,100,0,0,0</STATS_ARMA>
+</RECORD>

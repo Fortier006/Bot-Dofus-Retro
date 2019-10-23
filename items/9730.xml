@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9730</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo Rhi\'Ka</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;40&amp;CV&gt;40</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,50,50,0,0,1</STATS_ARMA>
+</RECORD>

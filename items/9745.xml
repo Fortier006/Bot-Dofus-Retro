@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9745</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita H\'Rifa</NOMBRE>
+  <NIVEL>30</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;30&amp;CV&gt;30</CONDICIONES>
+  <STATS_ARMA>5,4,2,2,50,50,0,1,1</STATS_ARMA>
+</RECORD>

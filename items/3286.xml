@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3286</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Thorerures</NOMBRE>
+  <NIVEL>81</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;75</CONDICIONES>
+  <STATS_ARMA>4,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4245</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Varkode</NOMBRE>
+  <NIVEL>5</NIVEL>
+  <PODS>40</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;6&amp;CV&gt;4</CONDICIONES>
+  <STATS_ARMA>1,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

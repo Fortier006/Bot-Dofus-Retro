@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8930</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Fucsia</NOMBRE>
+  <NIVEL>163</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;300&amp;CI&gt;300</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

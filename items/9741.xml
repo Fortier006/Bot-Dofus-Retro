@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9741</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Ne\'Joh</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;40&amp;CV&gt;40</CONDICIONES>
+  <STATS_ARMA>5,5,2,6,35,45,0,1,1</STATS_ARMA>
+</RECORD>

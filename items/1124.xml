@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1124</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Cristal Puro</NOMBRE>
+  <NIVEL>56</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;50&amp;CA&gt;18</CONDICIONES>
+  <STATS_ARMA>10,5,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

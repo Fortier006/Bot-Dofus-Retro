@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7103</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>La Xyothina</NOMBRE>
+  <NIVEL>145</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;450&amp;CV&gt;200</CONDICIONES>
+  <STATS_ARMA>7,4,3,5,30,50,0,1,1</STATS_ARMA>
+</RECORD>

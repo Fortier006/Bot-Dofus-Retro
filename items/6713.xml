@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6713</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Lorsothisas</NOMBRE>
+  <NIVEL>100</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PN~Lordsoth</CONDICIONES>
+  <STATS_ARMA>10,3,1,1,30,30,0,0,0</STATS_ARMA>
+</RECORD>

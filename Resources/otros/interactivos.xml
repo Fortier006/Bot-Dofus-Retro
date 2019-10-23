@@ -1,98 +1,98 @@
 <?xml version="1.0" standalone="yes"?>
 <SKILLS>
   <SKILL>
-    <nombre>Alembic</nombre>
+    <nombre>Alambique</nombre>
     <gfx>7019</gfx>
     <caminable>false</caminable>
     <habilidades>23</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Érable</nombre>
+    <nombre>Arce</nombre>
     <gfx>7504</gfx>
     <caminable>false</caminable>
     <habilidades>37</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Riz</nombre>
+    <nombre>Arroz</nombre>
     <gfx>7550</gfx>
     <caminable>true</caminable>
     <habilidades>159</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Avoine</nombre>
+    <nombre>Avena</nombre>
     <gfx>7517</gfx>
     <caminable>true</caminable>
     <habilidades>57</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Bambou</nombre>
+    <nombre>Bambú</nombre>
     <gfx>7553</gfx>
     <caminable>false</caminable>
     <habilidades>154</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Bambou sombre</nombre>
+    <nombre>Bambú oscuro</nombre>
     <gfx>7554</gfx>
     <caminable>false</caminable>
     <habilidades>155</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Bambou sacré</nombre>
+    <nombre>Bambú sagrado</nombre>
     <gfx>7552</gfx>
     <caminable>false</caminable>
     <habilidades>158</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Etabli</nombre>
+    <nombre>Banco</nombre>
     <gfx>7013</gfx>
     <caminable>false</caminable>
     <habilidades>17,149,148,15,16,147</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Etabli en bois</nombre>
+    <nombre>Banco de madera</nombre>
     <gfx>7018</gfx>
     <caminable>false</caminable>
     <habilidades>110</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Etabli Pyrotechnique</nombre>
+    <nombre>Banco pirotécnico</nombre>
     <gfx>7028</gfx>
     <caminable>false</caminable>
     <habilidades>151</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Poubelle</nombre>
+    <nombre>Basura</nombre>
     <gfx>7352</gfx>
     <caminable>false</caminable>
     <habilidades>153</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Bombu</nombre>
+    <nombre>Bombú</nombre>
     <gfx>7541</gfx>
     <caminable>false</caminable>
     <habilidades>139</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Bronze</nombre>
+    <nombre>Bronce</nombre>
     <gfx>7523</gfx>
     <caminable>false</caminable>
     <habilidades>26</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Chanvre</nombre>
+    <nombre>Cáñamo</nombre>
     <gfx>7514</gfx>
     <caminable>true</caminable>
     <habilidades>54,69</habilidades>
@@ -106,56 +106,56 @@
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Châtaigner</nombre>
+    <nombre>Castaño</nombre>
     <gfx>7501</gfx>
     <caminable>false</caminable>
     <habilidades>39</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Orge</nombre>
+    <nombre>Cebada</nombre>
     <gfx>7515</gfx>
     <caminable>true</caminable>
     <habilidades>53</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Seigle</nombre>
+    <nombre>Centeno</nombre>
     <gfx>7516</gfx>
     <caminable>true</caminable>
     <habilidades>52</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Clôture</nombre>
+    <nombre>Cercado</nombre>
     <gfx>6772,6763,6767,6766</gfx>
     <caminable>false</caminable>
     <habilidades>177,175,176,178</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Cerisier sauvage</nombre>
+    <nombre>Cerezo silvestre</nombre>
     <gfx>7506</gfx>
     <caminable>false</caminable>
     <habilidades>41</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Coffre</nombre>
+    <nombre>Cofre</nombre>
     <gfx>7353,7352,7351,7350</gfx>
     <caminable>false</caminable>
     <habilidades>104,105,106</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Dolomite</nombre>
+    <nombre>Dolomía</nombre>
     <gfx>7555</gfx>
     <caminable>false</caminable>
     <habilidades>161</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Ebène</nombre>
+    <nombre>Ébano</nombre>
     <gfx>7507</gfx>
     <caminable>false</caminable>
     <habilidades>34</habilidades>
@@ -169,462 +169,462 @@
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Plan de travail</nombre>
+    <nombre>Encimera</nombre>
     <gfx>7022</gfx>
     <caminable>false</caminable>
     <habilidades>135</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Plan de travail</nombre>
+    <nombre>Encimera</nombre>
     <gfx>7025</gfx>
     <caminable>false</caminable>
     <habilidades>132</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Plan de travail</nombre>
+    <nombre>Encimera</nombre>
     <gfx>7024</gfx>
     <caminable>false</caminable>
     <habilidades>133</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Plan de travail</nombre>
+    <nombre>Encimera</nombre>
     <gfx>7023</gfx>
     <caminable>false</caminable>
     <habilidades>134</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Étain</nombre>
+    <nombre>Estaño</nombre>
     <gfx>7521</gfx>
     <caminable>false</caminable>
     <habilidades>55</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Statue de classe</nombre>
+    <nombre>Estatua de clase</nombre>
     <gfx>2319,1845,1862,1861,1860,1859,1858,1857,1856,1855,1854,1853</gfx>
     <caminable>false</caminable>
     <habilidades>183</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Frêne</nombre>
+    <nombre>Fresno</nombre>
     <gfx>7500</gfx>
     <caminable>false</caminable>
     <habilidades>6</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Fontaine de jouvence</nombre>
+    <nombre>Fuente rejuvenecedora</nombre>
     <gfx>7004</gfx>
     <caminable>false</caminable>
     <habilidades>62</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Fer</nombre>
+    <nombre>Hierro</nombre>
     <gfx>7520</gfx>
     <caminable>false</caminable>
     <habilidades>24</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Four</nombre>
+    <nombre>Horno</nombre>
     <gfx>7001</gfx>
     <caminable>false</caminable>
     <habilidades>109,27</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Kaliptus</nombre>
+    <nombre>Kalipto</nombre>
     <gfx>7557</gfx>
     <caminable>false</caminable>
     <habilidades>174</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Quaquack</nombre>
+    <nombre>Kuakuá</nombre>
     <gfx>7549</gfx>
     <caminable>false</caminable>
     <habilidades>152</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Lin</nombre>
+    <nombre>Lino</nombre>
     <gfx>7513</gfx>
     <caminable>true</caminable>
     <habilidades>68,50</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Liste des artisans</nombre>
+    <nombre>Lista de artesanos</nombre>
     <gfx>7035</gfx>
     <caminable>false</caminable>
     <habilidades>170</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Houblon</nombre>
+    <nombre>Lúpulo</nombre>
     <gfx>7512</gfx>
     <caminable>true</caminable>
     <habilidades>46</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Malte</nombre>
+    <nombre>Malta</nombre>
     <gfx>7518</gfx>
     <caminable>true</caminable>
     <habilidades>58</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Manganèse</nombre>
+    <nombre>Manganeso</nombre>
     <gfx>7524</gfx>
     <caminable>false</caminable>
     <habilidades>56</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Machine à coudre</nombre>
+    <nombre>Máquina de coser</nombre>
     <gfx>7016,7014</gfx>
     <caminable>false</caminable>
     <habilidades>63</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Machine à coudre</nombre>
+    <nombre>Máquina de coser</nombre>
     <gfx>7015</gfx>
     <caminable>false</caminable>
     <habilidades>123,64</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>MMachine à coudre magique</nombre>
+    <nombre>Máquina de coser mágica</nombre>
     <gfx>7036</gfx>
     <caminable>false</caminable>
     <habilidades>165,167,166</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Machine de force</nombre>
+    <nombre>Máquina de fuerza</nombre>
     <gfx>7547,7546</gfx>
     <caminable>false</caminable>
     <habilidades>150</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Marmite</nombre>
+    <nombre>Marmita</nombre>
     <gfx>7017</gfx>
     <caminable>false</caminable>
     <habilidades>111</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Menthe sauvage</nombre>
+    <nombre>Menta salvaje</nombre>
     <gfx>7534</gfx>
     <caminable>true</caminable>
     <habilidades>72</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Table de confection</nombre>
+    <nombre>Mesa de confección</nombre>
     <gfx>7011</gfx>
     <caminable>false</caminable>
     <habilidades>13,14</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Table magique</nombre>
+    <nombre>Mesa mágica</nombre>
     <gfx>7037</gfx>
     <caminable>false</caminable>
     <habilidades>163,164</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Table de pommes de terre</nombre>
+    <nombre>Mesa para patatas</nombre>
     <gfx>7006</gfx>
     <caminable>false</caminable>
     <habilidades>22</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Moule</nombre>
+    <nombre>Molde</nombre>
     <gfx>7002</gfx>
     <caminable>false</caminable>
     <habilidades>32</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Beaucoup de pommes de terre</nombre>
+    <nombre>Montón de patatas</nombre>
     <gfx>7510</gfx>
     <caminable>false</caminable>
     <habilidades>42</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Dent</nombre>
+    <nombre>Muela</nombre>
     <gfx>7005</gfx>
     <caminable>false</caminable>
     <habilidades>48</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Noyer</nombre>
+    <nombre>Nogal</nombre>
     <gfx>7502</gfx>
     <caminable>false</caminable>
     <habilidades>40</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Olive</nombre>
+    <nombre>Olivioleta</nombre>
     <gfx>7542</gfx>
     <caminable>false</caminable>
     <habilidades>141</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Orme</nombre>
+    <nombre>Olmo</nombre>
     <gfx>7509</gfx>
     <caminable>false</caminable>
     <habilidades>35</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Or</nombre>
+    <nombre>Oro</nombre>
     <gfx>7527</gfx>
     <caminable>false</caminable>
     <habilidades>30</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Orchidée freyesque</nombre>
+    <nombre>Orquídea freyesca</nombre>
     <gfx>7535</gfx>
     <caminable>true</caminable>
     <habilidades>73</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Levier</nombre>
+    <nombre>Palanca</nombre>
     <gfx>7045,7044,7043,7042,7041</gfx>
     <caminable>false</caminable>
     <habilidades>179</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Pandouille</nombre>
+    <nombre>Pandoja</nombre>
     <gfx>7551</gfx>
     <caminable>true</caminable>
     <habilidades>160</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Grand poisson (mer))</nombre>
+    <nombre>Peces gordos (mar)</nombre>
     <gfx>7538</gfx>
     <caminable>false</caminable>
     <habilidades>130</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Grand poisson (rivière)</nombre>
+    <nombre>Peces gordos (río)</nombre>
     <gfx>7537</gfx>
     <caminable>false</caminable>
     <habilidades>126</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Petits poissons (mer)</nombre>
+    <nombre>Pescaditos (mar)</nombre>
     <gfx>7530</gfx>
     <caminable>false</caminable>
     <habilidades>128</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Petits poissons (rivière)</nombre>
+    <nombre>Pescaditos (río)</nombre>
     <gfx>7529</gfx>
     <caminable>false</caminable>
     <habilidades>124</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Poissons (mer)</nombre>
+    <nombre>Pescados (mar)</nombre>
     <gfx>7531</gfx>
     <caminable>false</caminable>
     <habilidades>129</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Poissons (rivière)</nombre>
+    <nombre>Pescados (río)</nombre>
     <gfx>7532</gfx>
     <caminable>false</caminable>
     <habilidades>125</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Poissons géants (mer)</nombre>
+    <nombre>Pescados gigantes (mar)</nombre>
     <gfx>7540</gfx>
     <caminable>false</caminable>
     <habilidades>131</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Poissons géants (rivière)</nombre>
+    <nombre>Pescados gigantes (río)</nombre>
     <gfx>7539</gfx>
     <caminable>false</caminable>
     <habilidades>127</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Pierre de bauxite</nombre>
+    <nombre>Piedra de bauxita</nombre>
     <gfx>7528</gfx>
     <caminable>false</caminable>
     <habilidades>31</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Pierre de cuivre</nombre>
+    <nombre>Piedra de cobre</nombre>
     <gfx>7522</gfx>
     <caminable>false</caminable>
     <habilidades>25</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Pierre de Kobalt</nombre>
+    <nombre>Piedra de kobalto</nombre>
     <gfx>7525</gfx>
     <caminable>false</caminable>
     <habilidades>28</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Pichon</nombre>
+    <nombre>Pischi</nombre>
     <gfx>7544</gfx>
     <caminable>false</caminable>
     <habilidades>136</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Argent</nombre>
+    <nombre>Plata</nombre>
     <gfx>7526</gfx>
     <caminable>false</caminable>
     <habilidades>29</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Puit</nombre>
+    <nombre>Pozo</nombre>
     <gfx>7519</gfx>
     <caminable>false</caminable>
     <habilidades>102</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Porte</nombre>
+    <nombre>Puerta</nombre>
     <gfx>6776,6775,6774,6773,4516,6770,6769,6762,6761,6760,6759,6768,6765,6764,6758,6757,6755,6756,6754,6752,6751,6750,6749,6753,6748,6747,6746,6745,6744,6743,6742,6741,6740,6739,6738,6737,6736,6735,6734,6733,6732,6731,6730,6729,6726,6725,6724,6723,6722,6721,6720,6719,6718,6717,6716,6715,6714,6713,6711,6710,6709,6708,6707,6706,6705,6704,6703,6702,6701,6700</gfx>
     <caminable>false</caminable>
     <habilidades>98,100,97,108,81,84</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Chêne</nombre>
+    <nombre>Roble</nombre>
     <gfx>7503</gfx>
     <caminable>false</caminable>
     <habilidades>10</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Scie</nombre>
+    <nombre>Sierra</nombre>
     <gfx>7003</gfx>
     <caminable>false</caminable>
     <habilidades>101</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Silicate</nombre>
+    <nombre>Silicato</nombre>
     <gfx>7556</gfx>
     <caminable>false</caminable>
     <habilidades>162</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Ombre étrange</nombre>
+    <nombre>Sombra extraña</nombre>
     <gfx>7543</gfx>
     <caminable>false</caminable>
     <habilidades>140</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Atelier de travail</nombre>
+    <nombre>Taller</nombre>
     <gfx>7010,7009,7008</gfx>
     <caminable>false</caminable>
     <habilidades>11,12</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Atelier de bricolage</nombre>
+    <nombre>Taller de bricolaje</nombre>
     <gfx>7039</gfx>
     <caminable>false</caminable>
     <habilidades>182,171</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Atelier magique</nombre>
+    <nombre>Taller mágico</nombre>
     <gfx>7038</gfx>
     <caminable>false</caminable>
     <habilidades>169,168</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>If</nombre>
+    <nombre>Tejo</nombre>
     <gfx>7505</gfx>
     <caminable>false</caminable>
     <habilidades>33</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Trèfle à 5 feuilles</nombre>
+    <nombre>Trébol de 5 hojas</nombre>
     <gfx>7533</gfx>
     <caminable>true</caminable>
     <habilidades>71</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Blé</nombre>
+    <nombre>Trigo</nombre>
     <gfx>7511</gfx>
     <caminable>true</caminable>
     <habilidades>45</habilidades>
     <recolectable>true</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Déchiqueteuse</nombre>
+    <nombre>Triturador</nombre>
     <gfx>7007</gfx>
     <caminable>false</caminable>
     <habilidades>47,122</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Déchiqueteuse de monstres</nombre>
+    <nombre>Triturador Munster</nombre>
     <gfx>7021</gfx>
     <caminable>false</caminable>
     <habilidades>181,121</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Enclume</nombre>
+    <nombre>Yunque</nombre>
     <gfx>7012</gfx>
     <caminable>false</caminable>
     <habilidades>143,19,145,144,142,146,67,21,65,66,20,18</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Enclume magique</nombre>
+    <nombre>Yunque mágico</nombre>
     <gfx>7020</gfx>
     <caminable>false</caminable>
     <habilidades>1,117,118,115,113,120,119,116</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Enclume pour boucliers</nombre>
+    <nombre>Yunque para escudos</nombre>
     <gfx>7027</gfx>
     <caminable>false</caminable>
     <habilidades>156</habilidades>
@@ -645,35 +645,35 @@
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Affiche</nombre>
+    <nombre>Cartel</nombre>
     <gfx>1988,1986,1985,1531,1533,1532,1528,1529,1530</gfx>
     <caminable>false</caminable>
     <habilidades>-1</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Bûche de bois abattue</nombre>
+    <nombre>Tronco talado de madera</nombre>
     <gfx>1836</gfx>
     <caminable>false</caminable>
     <habilidades>-1</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Phoenix</nombre>
+    <nombre>Fénix</nombre>
     <gfx>542</gfx>
     <caminable>false</caminable>
     <habilidades>-1</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Chariot géant avec blé</nombre>
+    <nombre>Carreta gigante con trigo</nombre>
     <gfx>523</gfx>
     <caminable>false</caminable>
     <habilidades>-1</habilidades>
     <recolectable>false</recolectable>
   </SKILL>
   <SKILL>
-    <nombre>Machine à filer</nombre>
+    <nombre>Máquina de hilar</nombre>
     <gfx>6666</gfx>
     <caminable>false</caminable>
     <habilidades>95</habilidades>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6356</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Elesulun</NOMBRE>
+  <NIVEL>123</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;146</CONDICIONES>
+  <STATS_ARMA>7,6,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3120</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Wonague</NOMBRE>
+  <NIVEL>109</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;103</CONDICIONES>
+  <STATS_ARMA>1,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

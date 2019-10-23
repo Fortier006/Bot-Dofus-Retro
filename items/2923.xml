@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2923</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Kesdutab</NOMBRE>
+  <NIVEL>63</NIVEL>
+  <PODS>17</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;62</CONDICIONES>
+  <STATS_ARMA>2,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

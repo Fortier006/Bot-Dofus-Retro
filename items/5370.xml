@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5370</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Orenarox</NOMBRE>
+  <NIVEL>87</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;47&amp;CS&gt;31</CONDICIONES>
+  <STATS_ARMA>3,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

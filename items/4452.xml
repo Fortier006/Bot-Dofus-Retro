@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4452</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Tehoh</NOMBRE>
+  <NIVEL>74</NIVEL>
+  <PODS>31</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;78</CONDICIONES>
+  <STATS_ARMA>4,4,2,4,50,40,0,1,0</STATS_ARMA>
+</RECORD>

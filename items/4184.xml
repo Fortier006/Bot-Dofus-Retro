@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4184</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Thorukusuh</NOMBRE>
+  <NIVEL>132</NIVEL>
+  <PODS>29</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;122</CONDICIONES>
+  <STATS_ARMA>2,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

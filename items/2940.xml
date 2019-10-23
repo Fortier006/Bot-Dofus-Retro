@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2940</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Rimuvel</NOMBRE>
+  <NIVEL>72</NIVEL>
+  <PODS>21</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;78&amp;CV&gt;36</CONDICIONES>
+  <STATS_ARMA>1,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

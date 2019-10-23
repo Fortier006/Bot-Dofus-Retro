@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6799</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Hoja del Jefe Bwork</NOMBRE>
+  <NIVEL>100</NIVEL>
+  <PODS>100</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;200&amp;CA&gt;200&amp;CV&gt;200</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,40,50,0,0,1</STATS_ARMA>
+</RECORD>

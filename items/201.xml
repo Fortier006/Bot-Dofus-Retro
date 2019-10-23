@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>201</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Hook</NOMBRE>
+  <NIVEL>55</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;30&amp;CC&gt;10&amp;CS&gt;10</CONDICIONES>
+  <STATS_ARMA>5,3,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

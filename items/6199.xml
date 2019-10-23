@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6199</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Nelielle</NOMBRE>
+  <NIVEL>71</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;60</CONDICIONES>
+  <STATS_ARMA>2,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

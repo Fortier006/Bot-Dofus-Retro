@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1404</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo Bestial</NOMBRE>
+  <NIVEL>35</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;80&amp;CW&gt;30</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

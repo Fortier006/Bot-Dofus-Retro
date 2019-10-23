@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7463</ID>
+  <TIPO>88</TIPO>
+  <NOMBRE>Runa del Alquimista</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ=26</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

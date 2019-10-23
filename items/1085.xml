@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1085</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de los Falistos</NOMBRE>
+  <NIVEL>79</NIVEL>
+  <PODS>70</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;79</CONDICIONES>
+  <STATS_ARMA>15,7,1,1,50,25,0,0,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3381</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga de Nirugotas</NOMBRE>
+  <NIVEL>12</NIVEL>
+  <PODS>21</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;14</CONDICIONES>
+  <STATS_ARMA>15,3,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

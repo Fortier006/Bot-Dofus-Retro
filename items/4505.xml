@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4505</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Gadico</NOMBRE>
+  <NIVEL>91</NIVEL>
+  <PODS>29</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;87</CONDICIONES>
+  <STATS_ARMA>3,4,2,3,50,40,0,1,0</STATS_ARMA>
+</RECORD>

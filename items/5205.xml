@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5205</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Lujifer</NOMBRE>
+  <NIVEL>32</NIVEL>
+  <PODS>31</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;18&amp;CI&gt;9</CONDICIONES>
+  <STATS_ARMA>4,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

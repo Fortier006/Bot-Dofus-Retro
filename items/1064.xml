@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1064</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Pequeño Martillo R\'único</NOMBRE>
+  <NIVEL>21</NIVEL>
+  <PODS>45</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;28&amp;CS&gt;3</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

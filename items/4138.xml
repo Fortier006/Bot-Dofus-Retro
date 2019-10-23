@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4138</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Itoso</NOMBRE>
+  <NIVEL>116</NIVEL>
+  <PODS>31</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;98&amp;CS&gt;48</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2590</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha Vor\'Om</NOMBRE>
+  <NIVEL>12</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;10</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

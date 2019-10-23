@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4741</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Obonin</NOMBRE>
+  <NIVEL>24</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;23</CONDICIONES>
+  <STATS_ARMA>5,4,3,7,30,50,0,1,1</STATS_ARMA>
+</RECORD>

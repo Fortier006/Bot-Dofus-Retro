@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8695</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Penispada</NOMBRE>
+  <NIVEL>177</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CM&gt;5</CONDICIONES>
+  <STATS_ARMA>5,3,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

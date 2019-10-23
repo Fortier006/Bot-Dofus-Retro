@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8095</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>El Sable Ayasalama</NOMBRE>
+  <NIVEL>143</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;300&amp;CS&gt;130&amp;(PG=6|PG=8|PG=11)</CONDICIONES>
+  <STATS_ARMA>15,4,1,1,80,50,0,1,0</STATS_ARMA>
+</RECORD>

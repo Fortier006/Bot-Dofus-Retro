@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>213</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Grandes Dagas de Croclage</NOMBRE>
+  <NIVEL>15</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;15</CONDICIONES>
+  <STATS_ARMA>10,3,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

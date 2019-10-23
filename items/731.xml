@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>731</ID>
+  <TIPO>75</TIPO>
+  <NOMBRE>Pergamino del hechizo especial Brokle</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PG=8</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

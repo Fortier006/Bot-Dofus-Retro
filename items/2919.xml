@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2919</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Ratoti</NOMBRE>
+  <NIVEL>61</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;60</CONDICIONES>
+  <STATS_ARMA>4,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

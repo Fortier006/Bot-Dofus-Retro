@@ -16,7 +16,7 @@ namespace Bot_Dofus_1._29._1.Otros.Game
         public Pelea pelea{ get; private set; }
         private bool disposed = false;
 
-        internal Juego(Account cuenta)
+        internal Juego(Cuenta cuenta)
         {
             servidor = new ServidorJuego();
             mapa = new Mapa();
@@ -29,13 +29,13 @@ namespace Bot_Dofus_1._29._1.Otros.Game
         ~Juego() => Dispose(false);
         public void Dispose() => Dispose(true);
 
-        public void Clear()
+        public void limpiar()
         {
-            mapa.Clear();
-            manejador.Clear();
-            pelea.Clear();
-            personaje.Clear();
-            servidor.Clear();
+            mapa.limpiar();
+            manejador.limpiar();
+            pelea.limpiar();
+            personaje.limpiar();
+            servidor.limpiar();
         }
 
         protected virtual void Dispose(bool disposing)

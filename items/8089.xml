@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8089</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Aleyx</NOMBRE>
+  <NIVEL>138</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;150&amp;CA&gt;100&amp;CC&gt;100&amp;CS&gt;100</CONDICIONES>
+  <STATS_ARMA>5,4,3,4,40,50,0,1,1</STATS_ARMA>
+</RECORD>

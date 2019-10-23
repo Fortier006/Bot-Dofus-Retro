@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9728</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Den\'Troh</NOMBRE>
+  <NIVEL>70</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;35&amp;CA&gt;35&amp;CC&gt;35&amp;CS&gt;35&amp;CV&gt;70</CONDICIONES>
+  <STATS_ARMA>4,5,1,1,30,50,0,0,1</STATS_ARMA>
+</RECORD>

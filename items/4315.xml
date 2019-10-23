@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4315</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Amphelalod</NOMBRE>
+  <NIVEL>29</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;31</CONDICIONES>
+  <STATS_ARMA>4,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

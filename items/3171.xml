@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3171</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Ragora</NOMBRE>
+  <NIVEL>135</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;146</CONDICIONES>
+  <STATS_ARMA>1,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

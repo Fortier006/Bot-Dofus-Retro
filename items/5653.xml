@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5653</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Kasripl</NOMBRE>
+  <NIVEL>35</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;40&amp;CS&gt;9</CONDICIONES>
+  <STATS_ARMA>2,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

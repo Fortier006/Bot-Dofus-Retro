@@ -6,39 +6,39 @@
 	</OFICIO>
 	<OFICIO>
 		<id>2</id>
-		<nombre>Bûcheron</nombre>
+		<nombre>Leñador</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>11</id>
-		<nombre>Forgeur d'Épées</nombre>
+		<nombre>Forjador de espadas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>13</id>
-		<nombre>Sculpteur d'Arcs</nombre>
+		<nombre>Escultor de arcos</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>14</id>
-		<nombre>Forgeur de Marteaux</nombre>
+		<nombre>Forjador de martillos</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>15</id>
-		<nombre>Cordonnier</nombre>
+		<nombre>Zapatero</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>16</id>
-		<nombre>Bijoutier</nombre>
+		<nombre>Joyero</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>17</id>
-		<nombre>Forgeur de Dagues</nombre>
+		<nombre>Forjador de Dagas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>18</id>
-		<nombre>Sculpteur de Bâtons</nombre>
+		<nombre>Escultor de Bastones</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>19</id>
-		<nombre>Escultor de Baguettes</nombre>
+		<nombre>Escultor de Varitas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>20</id>
@@ -46,95 +46,95 @@
 	</OFICIO>
 	<OFICIO>
 		<id>24</id>
-		<nombre>Mineur</nombre>
+		<nombre>Minero</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>25</id>
-		<nombre>Boulanger</nombre>
+		<nombre>Panadero</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>26</id>
-		<nombre>Alchimiste</nombre>
+		<nombre>Alquimista</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>27</id>
-		<nombre>Tailleur</nombre>
+		<nombre>Sastre</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>28</id>
-		<nombre>Paysan</nombre>
+		<nombre>Campesino</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>31</id>
-		<nombre>Forgeur de Haches</nombre>
+		<nombre>Forjador de hachas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>36</id>
-		<nombre>Pêcheur</nombre>
+		<nombre>Pescador</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>41</id>
-		<nombre>Chasseur</nombre>
+		<nombre>Cazador</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>56</id>
-		<nombre>Boucher</nombre>
+		<nombre>Carnicero</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>58</id>
-		<nombre>Poissonnier</nombre>
+		<nombre>Pescadero</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>60</id>
-		<nombre>Forgeur de boucliers</nombre>
+		<nombre>Forjador de escudos</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>62</id>
-		<nombre>Cordomage</nombre>
+		<nombre>Zapateromago</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>65</id>
-		<nombre>Bricoleur</nombre>
+		<nombre>Manitas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>43</id>
-    <nombre>Forgemage de Dagues</nombre>
+    <nombre>Forjamago de Dagas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>46</id>
-    <nombre>Forgemage de Pelles</nombre>
+    <nombre>Forjamago de Palas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>47</id>
-    <nombre>Forgemage de Haches</nombre>
+    <nombre>Forjamago de Hachas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>45</id>
-    <nombre>Forgemage de Marteaux</nombre>
+    <nombre>Forjamago de Martillos</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>44</id>
-		<nombre>Forgemage d'Épées</nombre>
+		<nombre>Forjamago de Espadas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>48</id>
-    <nombre>Sculptemage d'Arcs</nombre>
+    <nombre>Escultomago de Arcos</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>49</id>
-    <nombre>Sculptemage de Baguettes</nombre>
+    <nombre>Escultomago de Varitas</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>50</id>
-		<nombre>Sculptemage de Bâtons</nombre>
+		<nombre>Escultomago de Bastones</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>63</id>
-		<nombre>Joiallomage</nombre>
+		<nombre>Joyeromago</nombre>
 	</OFICIO>
 	<OFICIO>
 		<id>64</id>
-		<nombre>Costumage</nombre>
+		<nombre>Sastremago</nombre>
 	</OFICIO>
 </OFICIOS>
 

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5500</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Reredul</NOMBRE>
+  <NIVEL>130</NIVEL>
+  <PODS>29</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;73&amp;CS&gt;37</CONDICIONES>
+  <STATS_ARMA>8,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

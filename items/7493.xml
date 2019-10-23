@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7493</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Engastador del Joyeromago</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ=63</CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

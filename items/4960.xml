@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4960</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Eolozyp</NOMBRE>
+  <NIVEL>97</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;97&amp;CS&gt;35</CONDICIONES>
+  <STATS_ARMA>4,4,2,3,30,50,0,1,1</STATS_ARMA>
+</RECORD>

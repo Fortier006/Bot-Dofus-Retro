@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8414</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Dagas de Dragohuevo</NOMBRE>
+  <NIVEL>128</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;150&amp;CI&gt;150&amp;CA&gt;100</CONDICIONES>
+  <STATS_ARMA>10,3,1,1,30,30,0,1,1</STATS_ARMA>
+</RECORD>

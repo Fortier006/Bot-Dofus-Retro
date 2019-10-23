@@ -485,7 +485,7 @@
             "Clustus",
             "Nabur",
             "Arty",
-            "Agathe",
+            "Algathe",
             "Hogmeiser",
             "Droupik",
             "Bilby",

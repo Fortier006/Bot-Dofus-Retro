@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5429</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Doumumet</NOMBRE>
+  <NIVEL>107</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;59&amp;CS&gt;21</CONDICIONES>
+  <STATS_ARMA>8,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

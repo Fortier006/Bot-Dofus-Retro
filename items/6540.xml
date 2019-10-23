@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6540</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>La Pala Enamorada</NOMBRE>
+  <NIVEL>87</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;150&amp;CV&gt;80</CONDICIONES>
+  <STATS_ARMA>15,5,1,1,30,100,0,0,1</STATS_ARMA>
+</RECORD>

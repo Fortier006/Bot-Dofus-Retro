@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1353</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Madero</NOMBRE>
+  <NIVEL>41</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>Ps=1&amp;Pa&gt;10&amp;CI&gt;30&amp;CW&gt;30</CONDICIONES>
+  <STATS_ARMA>10,5,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

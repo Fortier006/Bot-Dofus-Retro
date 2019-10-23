@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3687</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga de Horare</NOMBRE>
+  <NIVEL>112</NIVEL>
+  <PODS>33</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;105</CONDICIONES>
+  <STATS_ARMA>6,3,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

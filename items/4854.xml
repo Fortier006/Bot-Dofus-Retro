@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4854</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Aquapramem</NOMBRE>
+  <NIVEL>61</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;59</CONDICIONES>
+  <STATS_ARMA>10,4,2,3,30,50,0,1,1</STATS_ARMA>
+</RECORD>

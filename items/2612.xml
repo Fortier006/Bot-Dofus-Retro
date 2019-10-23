@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2612</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha Pesquera</NOMBRE>
+  <NIVEL>87</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;50&amp;CA&gt;50</CONDICIONES>
+  <STATS_ARMA>15,5,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

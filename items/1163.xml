@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1163</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de los Reyes</NOMBRE>
+  <NIVEL>46</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;60</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,30,50,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5879</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Vludega</NOMBRE>
+  <NIVEL>111</NIVEL>
+  <PODS>28</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;124</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

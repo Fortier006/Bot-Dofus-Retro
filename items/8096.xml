@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8096</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo Kosner</NOMBRE>
+  <NIVEL>140</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;250&amp;CC&gt;250</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,30,45,0,1,0</STATS_ARMA>
+</RECORD>

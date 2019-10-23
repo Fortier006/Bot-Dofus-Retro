@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4787</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Flulile</NOMBRE>
+  <NIVEL>39</NIVEL>
+  <PODS>29</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;36</CONDICIONES>
+  <STATS_ARMA>8,4,2,6,30,50,0,1,1</STATS_ARMA>
+</RECORD>

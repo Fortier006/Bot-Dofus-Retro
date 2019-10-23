@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4625</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Fufuru</NOMBRE>
+  <NIVEL>131</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;121</CONDICIONES>
+  <STATS_ARMA>4,4,2,3,50,40,0,1,0</STATS_ARMA>
+</RECORD>

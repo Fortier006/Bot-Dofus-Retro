@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1539</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de forjamago de espadas</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ=44</CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

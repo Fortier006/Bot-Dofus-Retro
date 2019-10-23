@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>250</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Ares</NOMBRE>
+  <NIVEL>72</NIVEL>
+  <PODS>50</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;200</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

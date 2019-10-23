@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5110</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Lauwe</NOMBRE>
+  <NIVEL>147</NIVEL>
+  <PODS>36</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;155</CONDICIONES>
+  <STATS_ARMA>12,4,3,9,30,50,0,1,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>334</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Liriel</NOMBRE>
+  <NIVEL>20</NIVEL>
+  <PODS>13</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;40</CONDICIONES>
+  <STATS_ARMA>5,5,2,3,50,50,0,1,0</STATS_ARMA>
+</RECORD>

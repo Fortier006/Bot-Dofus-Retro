@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7213</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Ancefálica</NOMBRE>
+  <NIVEL>142</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;400&amp;CV&gt;250</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,40,70,0,0,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8103</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Telaraña</NOMBRE>
+  <NIVEL>121</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;100&amp;CA&gt;100&amp;CI&gt;100&amp;CC&gt;100&amp;CV&gt;200</CONDICIONES>
+  <STATS_ARMA>5,5,2,6,30,50,0,1,1</STATS_ARMA>
+</RECORD>

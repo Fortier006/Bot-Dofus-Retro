@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2170</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Mercenario</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>30,5,1,1,25,50,0,0,1</STATS_ARMA>
+</RECORD>

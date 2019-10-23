@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7494</ID>
+  <TIPO>20</TIPO>
+  <NOMBRE>Aguja del Sastremago</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ=64</CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

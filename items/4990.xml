@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4990</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Elazol</NOMBRE>
+  <NIVEL>107</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;113</CONDICIONES>
+  <STATS_ARMA>3,4,3,9,30,50,0,1,1</STATS_ARMA>
+</RECORD>

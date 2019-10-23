@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3620</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga de Pomep</NOMBRE>
+  <NIVEL>92</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;83</CONDICIONES>
+  <STATS_ARMA>14,3,1,1,30,30,0,1,0</STATS_ARMA>
+</RECORD>

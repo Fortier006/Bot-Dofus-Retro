@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1563</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Talladora de arcos mágicos</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ=48</CONDICIONES>
+  <STATS_ARMA>5,6,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

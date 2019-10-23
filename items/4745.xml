@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4745</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Ikimeju</NOMBRE>
+  <NIVEL>25</NIVEL>
+  <PODS>28</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;24</CONDICIONES>
+  <STATS_ARMA>4,4,2,6,30,50,0,1,1</STATS_ARMA>
+</RECORD>

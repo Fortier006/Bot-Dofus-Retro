@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6281</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Varkehu</NOMBRE>
+  <NIVEL>98</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;102&amp;CV&gt;36</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

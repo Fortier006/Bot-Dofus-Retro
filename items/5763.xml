@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5763</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Tepar</NOMBRE>
+  <NIVEL>72</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;83&amp;CS&gt;16&amp;CV&gt;18</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

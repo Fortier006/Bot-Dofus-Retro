@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6527</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Musical</NOMBRE>
+  <NIVEL>52</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;80&amp;CI&gt;50</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,20,20,0,0,0</STATS_ARMA>
+</RECORD>

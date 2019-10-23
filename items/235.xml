@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>235</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Cerberus</NOMBRE>
+  <NIVEL>16</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;15&amp;CS&gt;15</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

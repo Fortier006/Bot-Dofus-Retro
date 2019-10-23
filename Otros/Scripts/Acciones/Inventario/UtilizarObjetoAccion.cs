@@ -9,13 +9,13 @@ namespace Bot_Dofus_1._29._1.Otros.Scripts.Acciones.Inventario
 
         public UtilizarObjetoAccion(int _modelo_id) => modelo_id = _modelo_id;
 
-        internal override async Task<ResultadosAcciones> proceso(Account cuenta)
+        internal override async Task<ResultadosAcciones> proceso(Cuenta cuenta)
         {
-            ObjetosInventario objeto = cuenta.game.personaje.inventario.get_Objeto_Modelo_Id(modelo_id);
+            ObjetosInventario objeto = cuenta.juego.personaje.inventario.get_Objeto_Modelo_Id(modelo_id);
 
             if (objeto != null)
             {
-                cuenta.game.personaje.inventario.utilizar_Objeto(objeto);
+                cuenta.juego.personaje.inventario.utilizar_Objeto(objeto);
                 await Task.Delay(800);
             }
 

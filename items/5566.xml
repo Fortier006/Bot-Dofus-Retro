@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5566</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Thuku</NOMBRE>
+  <NIVEL>6</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;5&amp;CS&gt;1</CONDICIONES>
+  <STATS_ARMA>3,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

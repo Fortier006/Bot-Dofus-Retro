@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>219</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Blessdags</NOMBRE>
+  <NIVEL>64</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;64&amp;CV&gt;10&amp;CC&gt;10</CONDICIONES>
+  <STATS_ARMA>17,3,1,1,30,100,0,0,1</STATS_ARMA>
+</RECORD>

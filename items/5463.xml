@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5463</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Thake</NOMBRE>
+  <NIVEL>118</NIVEL>
+  <PODS>40</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;59&amp;CS&gt;37</CONDICIONES>
+  <STATS_ARMA>4,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

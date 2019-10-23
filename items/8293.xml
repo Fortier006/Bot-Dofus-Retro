@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8293</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha del Dragohuevo</NOMBRE>
+  <NIVEL>126</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;180&amp;CW&gt;80</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,50,0,0,1</STATS_ARMA>
+</RECORD>

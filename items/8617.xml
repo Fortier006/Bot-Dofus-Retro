@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8617</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Bast Hacha</NOMBRE>
+  <NIVEL>62</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;150</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,20,30,0,0,0</STATS_ARMA>
+</RECORD>

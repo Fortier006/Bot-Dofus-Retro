@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8104</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Chtelión</NOMBRE>
+  <NIVEL>129</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;300&amp;CV&gt;300&amp;CA&gt;100</CONDICIONES>
+  <STATS_ARMA>7,4,2,6,35,40,0,1,1</STATS_ARMA>
+</RECORD>

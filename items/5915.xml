@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5915</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Erosot</NOMBRE>
+  <NIVEL>123</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;126&amp;CS&gt;25</CONDICIONES>
+  <STATS_ARMA>3,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5012</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Olalo</NOMBRE>
+  <NIVEL>114</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;114</CONDICIONES>
+  <STATS_ARMA>6,4,3,5,30,50,0,1,1</STATS_ARMA>
+</RECORD>

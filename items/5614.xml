@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5614</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Lowafobe</NOMBRE>
+  <NIVEL>22</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;27</CONDICIONES>
+  <STATS_ARMA>3,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

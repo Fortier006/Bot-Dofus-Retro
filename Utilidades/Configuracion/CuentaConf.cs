@@ -74,6 +74,7 @@ namespace Bot_Dofus_1._29._1.Utilidades.Configuracion
                     return 611;
                 default:
                     return 601;
+                    break;
             }
         }
     }

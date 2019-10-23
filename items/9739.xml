@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9739</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco Leh\'Gial</NOMBRE>
+  <NIVEL>30</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;30&amp;CV&gt;30</CONDICIONES>
+  <STATS_ARMA>5,5,2,6,35,45,0,1,1</STATS_ARMA>
+</RECORD>

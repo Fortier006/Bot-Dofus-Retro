@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5195</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Rugnerugas</NOMBRE>
+  <NIVEL>29</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;19&amp;CS&gt;6</CONDICIONES>
+  <STATS_ARMA>8,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

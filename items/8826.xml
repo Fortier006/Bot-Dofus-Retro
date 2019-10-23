@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8826</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de la Chavala Zoth</NOMBRE>
+  <NIVEL>132</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;250&amp;CW&gt;150</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,45,45,0,0,0</STATS_ARMA>
+</RECORD>

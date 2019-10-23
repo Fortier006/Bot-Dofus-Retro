@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5666</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Totalu</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;48&amp;CV&gt;18</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

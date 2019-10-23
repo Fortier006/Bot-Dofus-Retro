@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6752</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Kwakhoja del Viento</NOMBRE>
+  <NIVEL>41</NIVEL>
+  <PODS>5</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;50&amp;CV&gt;50</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

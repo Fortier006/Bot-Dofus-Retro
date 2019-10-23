@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1037</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Daga Engañadora</NOMBRE>
+  <NIVEL>58</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;58&amp;CS&gt;20</CONDICIONES>
+  <STATS_ARMA>15,3,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1060</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Pequeña Maza Da</NOMBRE>
+  <NIVEL>18</NIVEL>
+  <PODS>40</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;18&amp;CI&gt;2</CONDICIONES>
+  <STATS_ARMA>10,5,1,1,60,40,0,0,0</STATS_ARMA>
+</RECORD>

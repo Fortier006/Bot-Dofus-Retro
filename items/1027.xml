@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1027</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Cuchillo de Stek</NOMBRE>
+  <NIVEL>35</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;35&amp;CS&gt;12</CONDICIONES>
+  <STATS_ARMA>15,3,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

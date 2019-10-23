@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9137</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Cuchillos corta-setas</NOMBRE>
+  <NIVEL>187</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;450</CONDICIONES>
+  <STATS_ARMA>8,3,1,1,30,50,0,0,1</STATS_ARMA>
+</RECORD>

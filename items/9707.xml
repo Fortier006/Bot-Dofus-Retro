@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9707</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada H\'Rdó</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;40&amp;CV&gt;40</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,50,50,0,0,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>337</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco del Bwork Arquero</NOMBRE>
+  <NIVEL>20</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;20&amp;CA&gt;20</CONDICIONES>
+  <STATS_ARMA>10,5,2,7,30,50,0,1,1</STATS_ARMA>
+</RECORD>

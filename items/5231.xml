@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5231</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Martillo de Uhosedor</NOMBRE>
+  <NIVEL>41</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CV&gt;22&amp;CS&gt;9</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

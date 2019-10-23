@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>229</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Gran Martillo de Marfil</NOMBRE>
+  <NIVEL>18</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;10&amp;CS&gt;8</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

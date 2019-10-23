@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8575</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>El Rambotón</NOMBRE>
+  <NIVEL>200</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PN~xxramboplxx</CONDICIONES>
+  <STATS_ARMA>7,3,1,2,42,42,0,1,1</STATS_ARMA>
+</RECORD>

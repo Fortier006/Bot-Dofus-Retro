@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3191</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Kugruk</NOMBRE>
+  <NIVEL>145</NIVEL>
+  <PODS>29</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;146&amp;CV&gt;45</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

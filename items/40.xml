@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>40</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espadita de Maderucha</NOMBRE>
+  <NIVEL>2</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;4</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,50,30,0,0,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7199</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada Carnicera</NOMBRE>
+  <NIVEL>135</NIVEL>
+  <PODS>15</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;200&amp;CA&gt;120&amp;CV&gt;300</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

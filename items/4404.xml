@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4404</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Vesele</NOMBRE>
+  <NIVEL>58</NIVEL>
+  <PODS>31</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;54</CONDICIONES>
+  <STATS_ARMA>1,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

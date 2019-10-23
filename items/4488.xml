@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4488</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Lofpur</NOMBRE>
+  <NIVEL>86</NIVEL>
+  <PODS>30</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;94</CONDICIONES>
+  <STATS_ARMA>6,4,2,3,50,40,0,1,0</STATS_ARMA>
+</RECORD>

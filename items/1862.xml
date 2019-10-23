@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1862</ID>
+  <TIPO>20</TIPO>
+  <NOMBRE>El Palo de Amor</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>5</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PJ&gt;36,59</CONDICIONES>
+  <STATS_ARMA>1,6,1,6,100,100,0,0,0</STATS_ARMA>
+</RECORD>

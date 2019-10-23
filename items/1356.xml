@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1356</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Bio Varita</NOMBRE>
+  <NIVEL>11</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>5,4,2,2,30,50,0,1,0</STATS_ARMA>
+</RECORD>

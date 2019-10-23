@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2066</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón del kanugro</NOMBRE>
+  <NIVEL>54</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;50&amp;CA&gt;40&amp;CC&gt;30</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

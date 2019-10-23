@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>831</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Gran Varita de Inteligencia</NOMBRE>
+  <NIVEL>27</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;27</CONDICIONES>
+  <STATS_ARMA>5,3,2,2,50,20,0,1,0</STATS_ARMA>
+</RECORD>

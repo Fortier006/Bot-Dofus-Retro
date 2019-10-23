@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3868</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Upuje</NOMBRE>
+  <NIVEL>26</NIVEL>
+  <PODS>23</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;27</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

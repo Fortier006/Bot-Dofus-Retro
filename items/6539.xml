@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6539</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Blega</NOMBRE>
+  <NIVEL>71</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;30&amp;CC&gt;150</CONDICIONES>
+  <STATS_ARMA>10,4,1,1,25,60,0,0,1</STATS_ARMA>
+</RECORD>

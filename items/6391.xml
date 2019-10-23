@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6391</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Finfla</NOMBRE>
+  <NIVEL>135</NIVEL>
+  <PODS>33</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;127</CONDICIONES>
+  <STATS_ARMA>3,6,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

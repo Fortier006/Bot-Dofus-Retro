@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5091</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Cutagim</NOMBRE>
+  <NIVEL>140</NIVEL>
+  <PODS>22</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;147&amp;CS&gt;53</CONDICIONES>
+  <STATS_ARMA>5,4,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

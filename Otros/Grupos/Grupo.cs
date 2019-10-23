@@ -10,45 +10,45 @@ namespace Bot_Dofus_1._29._1.Otros.Grupos
     public class Grupo : IDisposable
     {
         private Agrupamiento agrupamiento;
-        private Dictionary<Account, ManualResetEvent> cuentas_acabadas;
+        private Dictionary<Cuenta, ManualResetEvent> cuentas_acabadas;
 
-        public Account lider { get; private set; }
-        public ObservableCollection<Account> miembros { get; private set; }
+        public Cuenta lider { get; private set; }
+        public ObservableCollection<Cuenta> miembros { get; private set; }
         private bool disposed;
 
-        public Grupo(Account _lider)
+        public Grupo(Cuenta _lider)
         {
             agrupamiento = new Agrupamiento(this);
-            cuentas_acabadas = new Dictionary<Account, ManualResetEvent>();
+            cuentas_acabadas = new Dictionary<Cuenta, ManualResetEvent>();
             lider = _lider;
-            miembros = new ObservableCollection<Account>();
+            miembros = new ObservableCollection<Cuenta>();
 
-            lider.group = this;
+            lider.grupo = this;
         }
 
-        public void agregar_Miembro(Account miembro)
+        public void agregar_Miembro(Cuenta miembro)
         {
             if (miembros.Count >= 7)//dofus solo se pueden 8 personaje en un grupo
                 return;
 
-            miembro.group = this;
+            miembro.grupo = this;
             miembros.Add(miembro);
             cuentas_acabadas.Add(miembro, new ManualResetEvent(false));
         }
 
-        public void eliminar_Miembro(Account miembro) => miembros.Remove(miembro);
+        public void eliminar_Miembro(Cuenta miembro) => miembros.Remove(miembro);
 
         public void conectar_Cuentas()
         {
             lider.conectar();
 
-            foreach (Account miembro in miembros)
+            foreach (Cuenta miembro in miembros)
                 miembro.conectar();
         }
 
         public void desconectar_Cuentas()
         {
-            foreach (Account miembro in miembros)
+            foreach (Cuenta miembro in miembros)
                 miembro.desconectar();
         }
 
@@ -57,12 +57,12 @@ namespace Bot_Dofus_1._29._1.Otros.Grupos
         {
             if (accion is PeleasAccion)
             {
-                foreach (Account miembro in miembros)
+                foreach (Cuenta miembro in miembros)
                     cuentas_acabadas[miembro].Set();
                 return;
             }
 
-            foreach (Account miembro in miembros)
+            foreach (Cuenta miembro in miembros)
                 miembro.script.manejar_acciones.enqueue_Accion(accion, iniciar_dequeue);
 
             if (iniciar_dequeue)
@@ -74,7 +74,7 @@ namespace Bot_Dofus_1._29._1.Otros.Grupos
 
         public void esperar_Acciones_Terminadas() => WaitHandle.WaitAll(cuentas_acabadas.Values.ToArray());
 
-        private void miembro_Acciones_Acabadas(Account cuenta)
+        private void miembro_Acciones_Acabadas(Cuenta cuenta)
         {
             cuenta.logger.log_informacion("GROUPE", "Actions terminées");
             cuentas_acabadas[cuenta].Set();

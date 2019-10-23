@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6787</ID>
+  <TIPO>80</TIPO>
+  <NOMBRE>Ficha rellenada válida</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>0</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PW&gt;1499&amp;CA&gt;49</CONDICIONES>
+  <STATS_ARMA></STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1352</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Boo</NOMBRE>
+  <NIVEL>50</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>10,5,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

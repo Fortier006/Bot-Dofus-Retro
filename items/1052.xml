@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1052</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Gran Pala de Wukis</NOMBRE>
+  <NIVEL>59</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;45&amp;CS&gt;45</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

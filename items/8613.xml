@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8613</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Minsterio</NOMBRE>
+  <NIVEL>70</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;100</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,30,50,0,0,1</STATS_ARMA>
+</RECORD>

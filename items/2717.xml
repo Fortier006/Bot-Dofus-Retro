@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2717</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Stoupur</NOMBRE>
+  <NIVEL>8</NIVEL>
+  <PODS>16</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;9</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

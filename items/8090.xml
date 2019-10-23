@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8090</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Barra del Caribe</NOMBRE>
+  <NIVEL>114</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;200&amp;CA&gt;150</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,35,50,0,1,1</STATS_ARMA>
+</RECORD>

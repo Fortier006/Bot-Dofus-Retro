@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1076</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Pequeña Maza Getay</NOMBRE>
+  <NIVEL>39</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;40&amp;CS&gt;8</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,50,0,0,0</STATS_ARMA>
+</RECORD>

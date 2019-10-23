@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8934</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha Parrada</NOMBRE>
+  <NIVEL>158</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;150&amp;CA&gt;150&amp;CI&gt;150</CONDICIONES>
+  <STATS_ARMA>7,5,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

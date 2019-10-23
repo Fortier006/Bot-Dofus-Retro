@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>5681</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala de Darit</NOMBRE>
+  <NIVEL>45</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CC&gt;46&amp;CS&gt;20&amp;CV&gt;11</CONDICIONES>
+  <STATS_ARMA>8,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

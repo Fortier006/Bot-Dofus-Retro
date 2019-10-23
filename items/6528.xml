@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6528</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Pala Grino</NOMBRE>
+  <NIVEL>88</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;80&amp;CC&gt;150&amp;CW&gt;40</CONDICIONES>
+  <STATS_ARMA>5,5,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

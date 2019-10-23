@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4663</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Lameubo</NOMBRE>
+  <NIVEL>144</NIVEL>
+  <PODS>32</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;148&amp;CV&gt;40</CONDICIONES>
+  <STATS_ARMA>5,4,2,2,50,40,0,1,0</STATS_ARMA>
+</RECORD>

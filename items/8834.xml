@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8834</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Rama del abrajidor oscuro</NOMBRE>
+  <NIVEL>97</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;100&amp;CI&gt;100</CONDICIONES>
+  <STATS_ARMA>5,5,2,4,40,40,0,1,1</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3135</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Igeroth</NOMBRE>
+  <NIVEL>117</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;128&amp;CV&gt;60</CONDICIONES>
+  <STATS_ARMA>6,5,1,1,40,40,0,1,0</STATS_ARMA>
+</RECORD>

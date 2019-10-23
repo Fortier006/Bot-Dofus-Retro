@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4959</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Vlesep</NOMBRE>
+  <NIVEL>96</NIVEL>
+  <PODS>24</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;94</CONDICIONES>
+  <STATS_ARMA>11,4,3,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

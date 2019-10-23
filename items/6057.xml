@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6057</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Lugorotu</NOMBRE>
+  <NIVEL>24</NIVEL>
+  <PODS>20</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;22</CONDICIONES>
+  <STATS_ARMA>2,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

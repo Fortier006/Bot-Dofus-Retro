@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>54</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Gran Espada Chifladora</NOMBRE>
+  <NIVEL>24</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;48&amp;CI&gt;14</CONDICIONES>
+  <STATS_ARMA>6,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

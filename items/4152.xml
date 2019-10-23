@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4152</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón de Fleked</NOMBRE>
+  <NIVEL>121</NIVEL>
+  <PODS>40</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;114</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

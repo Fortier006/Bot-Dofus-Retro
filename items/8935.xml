@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8935</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>La Pala de Mel</NOMBRE>
+  <NIVEL>176</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;250&amp;CI&gt;250</CONDICIONES>
+  <STATS_ARMA>7,4,1,1,35,50,0,0,0</STATS_ARMA>
+</RECORD>

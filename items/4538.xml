@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4538</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita de Dilof</NOMBRE>
+  <NIVEL>102</NIVEL>
+  <PODS>38</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CI&gt;97</CONDICIONES>
+  <STATS_ARMA>2,4,2,3,50,40,0,1,0</STATS_ARMA>
+</RECORD>

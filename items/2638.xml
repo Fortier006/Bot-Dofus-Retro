@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>2638</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>La Garra Afilada</NOMBRE>
+  <NIVEL>68</NIVEL>
+  <PODS>12</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CV&gt;30&amp;CA&gt;30&amp;CS&gt;30</CONDICIONES>
+  <STATS_ARMA>12,4,1,1,30,50,0,0,0</STATS_ARMA>
+</RECORD>

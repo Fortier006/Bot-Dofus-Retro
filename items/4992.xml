@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4992</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Cumeka</NOMBRE>
+  <NIVEL>107</NIVEL>
+  <PODS>25</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;110&amp;CS&gt;25</CONDICIONES>
+  <STATS_ARMA>5,4,2,8,30,50,0,1,1</STATS_ARMA>
+</RECORD>

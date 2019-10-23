@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>742</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón cornudo</NOMBRE>
+  <NIVEL>29</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;20&amp;CI&gt;30</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,30,200,0,0,0</STATS_ARMA>
+</RECORD>

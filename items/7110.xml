@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>7110</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Larvesca</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>5</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES></CONDICIONES>
+  <STATS_ARMA>5,3,2,4,40,50,0,1,0</STATS_ARMA>
+</RECORD>

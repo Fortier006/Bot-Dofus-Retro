@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>333</ID>
+  <TIPO>3</TIPO>
+  <NOMBRE>Varita Depan</NOMBRE>
+  <NIVEL>50</NIVEL>
+  <PODS>1</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CW&gt;40&amp;CI&gt;100</CONDICIONES>
+  <STATS_ARMA>5,3,3,5,50,50,0,1,0</STATS_ARMA>
+</RECORD>

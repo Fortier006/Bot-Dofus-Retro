@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>8598</ID>
+  <TIPO>5</TIPO>
+  <NOMBRE>Emment Daga</NOMBRE>
+  <NIVEL>67</NIVEL>
+  <PODS>10</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CA&gt;100</CONDICIONES>
+  <STATS_ARMA>10,3,1,1,30,50,0,1,1</STATS_ARMA>
+</RECORD>

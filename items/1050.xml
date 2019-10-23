@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1050</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>Palita de Wukis</NOMBRE>
+  <NIVEL>49</NIVEL>
+  <PODS>35</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CC&gt;40&amp;CS&gt;40</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,40,40,0,0,0</STATS_ARMA>
+</RECORD>

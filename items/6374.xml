@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6374</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Amehatos</NOMBRE>
+  <NIVEL>129</NIVEL>
+  <PODS>39</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;141</CONDICIONES>
+  <STATS_ARMA>2,6,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

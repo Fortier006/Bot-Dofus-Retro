@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>3216</ID>
+  <TIPO>6</TIPO>
+  <NOMBRE>Espada de Utoxe</NOMBRE>
+  <NIVEL>11</NIVEL>
+  <PODS>37</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;12</CONDICIONES>
+  <STATS_ARMA>4,4,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>224</ID>
+  <TIPO>7</TIPO>
+  <NOMBRE>Potente Martillo de Paliza</NOMBRE>
+  <NIVEL>15</NIVEL>
+  <PODS>40</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CI&gt;10&amp;CS&gt;5</CONDICIONES>
+  <STATS_ARMA>5,4,1,1,50,50,0,0,0</STATS_ARMA>
+</RECORD>

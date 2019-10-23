@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>6169</ID>
+  <TIPO>19</TIPO>
+  <NOMBRE>Hacha de Rurukoku</NOMBRE>
+  <NIVEL>61</NIVEL>
+  <PODS>37</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CS&gt;66</CONDICIONES>
+  <STATS_ARMA>4,5,1,1,40,30,0,1,0</STATS_ARMA>
+</RECORD>

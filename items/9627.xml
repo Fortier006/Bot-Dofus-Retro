@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>9627</ID>
+  <TIPO>4</TIPO>
+  <NOMBRE>Bastón del aprendiz peregrino</NOMBRE>
+  <NIVEL>1</NIVEL>
+  <PODS>0</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>PL&lt;6</CONDICIONES>
+  <STATS_ARMA>0,42,1,1,42,42,0,1,1</STATS_ARMA>
+</RECORD>

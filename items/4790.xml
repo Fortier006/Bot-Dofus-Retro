@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>4790</ID>
+  <TIPO>2</TIPO>
+  <NOMBRE>Arco de Opagyp</NOMBRE>
+  <NIVEL>40</NIVEL>
+  <PODS>26</PODS>
+  <ES_ETEREO>1</ES_ETEREO>
+  <CONDICIONES>CA&gt;43</CONDICIONES>
+  <STATS_ARMA>9,4,2,5,30,50,0,1,1</STATS_ARMA>
+</RECORD>

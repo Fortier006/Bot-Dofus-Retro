@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RECORD>
+  <ID>1435</ID>
+  <TIPO>8</TIPO>
+  <NOMBRE>La Pala Gorda</NOMBRE>
+  <NIVEL>80</NIVEL>
+  <PODS>150</PODS>
+  <ES_ETEREO>0</ES_ETEREO>
+  <CONDICIONES>CS&gt;100</CONDICIONES>
+  <STATS_ARMA>10,6,1,1,50,50,0,1,0</STATS_ARMA>
+</RECORD>
