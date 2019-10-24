@@ -37,10 +37,15 @@ namespace Bot_Dofus_1._29._1.Interfaces
                 dataGridView_hechizos.Rows.Clear();
 
                 foreach (Hechizo spell in cuenta.juego.personaje.hechizos.Values)
-                    dataGridView_hechizos.Rows.Add(new object[] { spell.id, spell.nombre, spell.nivel, (spell.nivel == 7 || spell.id == 0 ? "-" : "Subir hechizo") });
+                    dataGridView_hechizos.Rows.Add(new object[] { spell.id, spell.nombre, spell.nivel, (spell.nivel == 7 || spell.id == 0 ? "-" : "Subir sort") });
             }));
         }
 
         public static void set_DoubleBuffered(Control control) => typeof(Control).InvokeMember("DoubleBuffered", BindingFlags.SetProperty | BindingFlags.Instance | BindingFlags.NonPublic, null, control, new object[] { true });
+
+        private void dataGridView_hechizos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

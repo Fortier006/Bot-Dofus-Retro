@@ -82,6 +82,7 @@ namespace Bot_Dofus_1._29._1.Otros.Scripts.Manejadores
                     if (cuenta.Estado_Cuenta != EstadoCuenta.LUCHANDO)
                     {
                         cuenta.logger.log_Peligro("SCRIPT", "Erreur en lançant le combat, les monstres ont pu se déplacer ou être volés !");
+                        Program.m_bot.CommandHandler.SystemDM("SCRIPT" + "Erreur en lançant le combat, les monstres ont pu se déplacer ou être volés !");
                         acciones_Salida(0);
                     }
                 }

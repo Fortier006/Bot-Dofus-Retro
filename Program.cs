@@ -9,6 +9,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Linq;
+using Discord;
+using Discord.WebSocket;
+using System.Threading.Tasks;
+using System.Linq;
+using Bot_Dofus_1._29._1.DiscordBot;
 
 /*
     Este archivo es parte del proyecto BotDofus_1.29.1
@@ -19,8 +24,12 @@ using System.Xml.Linq;
 
 namespace Bot_Dofus_1._29._1
 {
+    public delegate void ScriptActivationHandler(object source, CustomEventArgs e);
+
     internal static class Program
     {
+        public static DiscordBot.Bot m_bot;
+
         [STAThread]
         private static void Main()
         {
@@ -61,6 +70,10 @@ namespace Bot_Dofus_1._29._1
                     });
                 });
             }).Wait();
+
+            DiscordBot.Bot bot = new DiscordBot.Bot();
+
+            m_bot = bot;
 
             Application.Run(new Principal());
         }

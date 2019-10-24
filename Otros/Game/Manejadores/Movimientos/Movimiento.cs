@@ -158,6 +158,7 @@ namespace Bot_Dofus_1._29._1.Otros.Game.Entidades.Manejadores.Movimientos
 
                 default:
                         cuenta.logger.log_Error("MOUVEMENT", $"Chemin vers {celda.id} résultat échoué ou bloqué : {resultado}");
+                        Program.m_bot.CommandHandler.SystemDM("MOUVEMENT " + $"Chemin vers {celda.id} résultat échoué ou bloqué : {resultado}");
                 return false;
             }
         }

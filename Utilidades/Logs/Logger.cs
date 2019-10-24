@@ -13,10 +13,13 @@ namespace Bot_Dofus_1._29._1.Utilidades.Logs
             {
                 LogMensajes log_mensaje = new LogMensajes(referencia, mensaje, ex);
                 log_evento?.Invoke(log_mensaje, color);
+
+                if (Program.m_bot.LogEnabled)
+                    Program.m_bot.CommandHandler.SystemMessageToChannel(mensaje);
             }
             catch (Exception e)
             {
-                log_Final("LOGGER", "Se produjo una excepción al activar el evento registrado.", LogTipos.ERROR, e);
+                log_Final("LOGGER", "Une exception s'est produite lors du log d'un évènement.", LogTipos.ERROR, e);
             }
         }
 

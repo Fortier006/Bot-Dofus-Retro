@@ -152,7 +152,7 @@
             // 
             // Nivel
             // 
-            this.Nivel.HeaderText = "Nivel";
+            this.Nivel.HeaderText = "Niveau";
             this.Nivel.Name = "Nivel";
             this.Nivel.ReadOnly = true;
             // 
@@ -173,7 +173,7 @@
             // 
             // UI_Oficios
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.dataGridView_oficios);
             this.Controls.Add(this.dataGridView_skills);

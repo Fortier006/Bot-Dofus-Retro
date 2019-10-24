@@ -89,12 +89,12 @@
             this.label_alcanze = new System.Windows.Forms.Label();
             this.label_invocaciones = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.ui_hechizos = new Bot_Dofus_1._29._1.Interfaces.UI_Hechizos();
             this.panel1 = new System.Windows.Forms.Panel();
             this.label14 = new System.Windows.Forms.Label();
             this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.ui_hechizos = new Bot_Dofus_1._29._1.Interfaces.UI_Hechizos();
             this.ui_oficios = new Bot_Dofus_1._29._1.Interfaces.UI_Oficios();
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
@@ -194,7 +194,7 @@
             // 
             this.label_nivel_personaje.Dock = System.Windows.Forms.DockStyle.Top;
             this.label_nivel_personaje.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_nivel_personaje.Location = new System.Drawing.Point(244, 64);
+            this.label_nivel_personaje.Location = new System.Drawing.Point(244, 68);
             this.label_nivel_personaje.Name = "label_nivel_personaje";
             this.label_nivel_personaje.Size = new System.Drawing.Size(142, 33);
             this.label_nivel_personaje.TabIndex = 8;
@@ -205,7 +205,7 @@
             // 
             this.label_nombre_personaje.Dock = System.Windows.Forms.DockStyle.Top;
             this.label_nombre_personaje.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_nombre_personaje.Location = new System.Drawing.Point(244, 22);
+            this.label_nombre_personaje.Location = new System.Drawing.Point(244, 26);
             this.label_nombre_personaje.Name = "label_nombre_personaje";
             this.label_nombre_personaje.Size = new System.Drawing.Size(142, 42);
             this.label_nombre_personaje.TabIndex = 7;
@@ -215,10 +215,10 @@
             // imagen_personaje
             // 
             this.imagen_personaje.Dock = System.Windows.Forms.DockStyle.Left;
-            this.imagen_personaje.Location = new System.Drawing.Point(3, 22);
+            this.imagen_personaje.Location = new System.Drawing.Point(3, 26);
             this.imagen_personaje.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.imagen_personaje.Name = "imagen_personaje";
-            this.imagen_personaje.Size = new System.Drawing.Size(241, 490);
+            this.imagen_personaje.Size = new System.Drawing.Size(241, 486);
             this.imagen_personaje.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.imagen_personaje.TabIndex = 6;
             this.imagen_personaje.TabStop = false;
@@ -239,9 +239,9 @@
             // 
             this.label_capital_stats.AutoSize = true;
             this.label_capital_stats.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label_capital_stats.Location = new System.Drawing.Point(373, 21);
+            this.label_capital_stats.Location = new System.Drawing.Point(369, 25);
             this.label_capital_stats.Name = "label_capital_stats";
-            this.label_capital_stats.Size = new System.Drawing.Size(13, 17);
+            this.label_capital_stats.Size = new System.Drawing.Size(17, 23);
             this.label_capital_stats.TabIndex = 1;
             this.label_capital_stats.Text = "-";
             this.label_capital_stats.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -250,9 +250,9 @@
             // 
             this.label_texto_capital_stats.AutoSize = true;
             this.label_texto_capital_stats.Dock = System.Windows.Forms.DockStyle.Left;
-            this.label_texto_capital_stats.Location = new System.Drawing.Point(3, 21);
+            this.label_texto_capital_stats.Location = new System.Drawing.Point(3, 25);
             this.label_texto_capital_stats.Name = "label_texto_capital_stats";
-            this.label_texto_capital_stats.Size = new System.Drawing.Size(100, 17);
+            this.label_texto_capital_stats.Size = new System.Drawing.Size(124, 23);
             this.label_texto_capital_stats.TabIndex = 0;
             this.label_texto_capital_stats.Text = "Points de stats:";
             this.label_texto_capital_stats.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -321,7 +321,7 @@
             this.tableLayoutPanel5.Controls.Add(this.label_alcanze, 2, 5);
             this.tableLayoutPanel5.Controls.Add(this.label_invocaciones, 2, 6);
             this.tableLayoutPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(3, 21);
+            this.tableLayoutPanel5.Location = new System.Drawing.Point(3, 25);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 13;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.692307F));
@@ -337,7 +337,7 @@
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.692308F));
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.692308F));
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 7.692308F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(383, 532);
+            this.tableLayoutPanel5.Size = new System.Drawing.Size(383, 528);
             this.tableLayoutPanel5.TabIndex = 0;
             // 
             // button5
@@ -346,7 +346,7 @@
             this.button5.Image = global::Bot_Dofus_1._29._1.Properties.Resources.boton_mas;
             this.button5.Location = new System.Drawing.Point(345, 483);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(35, 46);
+            this.button5.Size = new System.Drawing.Size(35, 42);
             this.button5.TabIndex = 23;
             this.button5.UseVisualStyleBackColor = true;
             // 
@@ -379,7 +379,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(149, 40);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Puntos de vida";
+            this.label1.Text = "Points de vie";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // button3
@@ -409,7 +409,7 @@
             this.stats_agilidad.Dock = System.Windows.Forms.DockStyle.Fill;
             this.stats_agilidad.Location = new System.Drawing.Point(206, 480);
             this.stats_agilidad.Name = "stats_agilidad";
-            this.stats_agilidad.Size = new System.Drawing.Size(133, 52);
+            this.stats_agilidad.Size = new System.Drawing.Size(133, 48);
             this.stats_agilidad.TabIndex = 18;
             this.stats_agilidad.Text = "-";
             this.stats_agilidad.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -494,7 +494,7 @@
             this.label13.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label13.Location = new System.Drawing.Point(51, 480);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(149, 52);
+            this.label13.Size = new System.Drawing.Size(149, 48);
             this.label13.TabIndex = 11;
             this.label13.Text = "Agilité";
             this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -593,7 +593,7 @@
             this.pictureBox13.Image = global::Bot_Dofus_1._29._1.Properties.Resources.agilidad;
             this.pictureBox13.Location = new System.Drawing.Point(3, 483);
             this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(42, 46);
+            this.pictureBox13.Size = new System.Drawing.Size(42, 42);
             this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox13.TabIndex = 5;
             this.pictureBox13.TabStop = false;
@@ -844,6 +844,16 @@
             this.tabPage2.Text = "Sorts";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
+            // ui_hechizos
+            // 
+            this.ui_hechizos.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.ui_hechizos.Font = new System.Drawing.Font("Segoe UI", 9.75F);
+            this.ui_hechizos.Location = new System.Drawing.Point(3, 4);
+            this.ui_hechizos.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.ui_hechizos.Name = "ui_hechizos";
+            this.ui_hechizos.Size = new System.Drawing.Size(790, 544);
+            this.ui_hechizos.TabIndex = 2;
+            // 
             // panel1
             // 
             this.panel1.Controls.Add(this.label14);
@@ -858,9 +868,9 @@
             this.label14.AutoSize = true;
             this.label14.Dock = System.Windows.Forms.DockStyle.Right;
             this.label14.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(724, 0);
+            this.label14.Location = new System.Drawing.Point(712, 0);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(66, 17);
+            this.label14.Size = new System.Drawing.Size(78, 23);
             this.label14.TabIndex = 0;
             this.label14.Text = "Points: 0";
             this.label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -877,24 +887,6 @@
             this.tabPage3.Text = "Métiers";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
-            // imageList1
-            // 
-            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
-            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
-            this.imageList1.Images.SetKeyName(0, "24_DNA-24.png");
-            this.imageList1.Images.SetKeyName(1, "magic32.png");
-            this.imageList1.Images.SetKeyName(2, "Iron_Axe_32.png");
-            // 
-            // ui_hechizos
-            // 
-            this.ui_hechizos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.ui_hechizos.Font = new System.Drawing.Font("Segoe UI", 9.75F);
-            this.ui_hechizos.Location = new System.Drawing.Point(3, 4);
-            this.ui_hechizos.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.ui_hechizos.Name = "ui_hechizos";
-            this.ui_hechizos.Size = new System.Drawing.Size(790, 544);
-            this.ui_hechizos.TabIndex = 2;
-            // 
             // ui_oficios
             // 
             this.ui_oficios.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -905,9 +897,17 @@
             this.ui_oficios.Size = new System.Drawing.Size(790, 564);
             this.ui_oficios.TabIndex = 0;
             // 
+            // imageList1
+            // 
+            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageList1.Images.SetKeyName(0, "24_DNA-24.png");
+            this.imageList1.Images.SetKeyName(1, "magic32.png");
+            this.imageList1.Images.SetKeyName(2, "Iron_Axe_32.png");
+            // 
             // UI_Personaje
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.tabControl1);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F);

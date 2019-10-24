@@ -1,4 +1,5 @@
 ﻿using Bot_Dofus_1._29._1.Utilidades.Configuracion;
+using Discord.WebSocket;
 using Microsoft.VisualBasic;
 using System;
 using System.Collections.Generic;

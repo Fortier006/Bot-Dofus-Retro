@@ -316,7 +316,7 @@ namespace Bot_Dofus_1._29._1.Interfaces
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 18.76676F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 21.31367F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 59.91957F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 60F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 63F));
             this.tableLayoutPanel1.Controls.Add(this.textBox_nombre_privado, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.comboBox_lista_canales, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.button_limpiar_consola, 3, 0);
@@ -337,7 +337,7 @@ namespace Bot_Dofus_1._29._1.Interfaces
             this.textBox_nombre_privado.Location = new System.Drawing.Point(139, 3);
             this.textBox_nombre_privado.MaxLength = 80;
             this.textBox_nombre_privado.Name = "textBox_nombre_privado";
-            this.textBox_nombre_privado.Size = new System.Drawing.Size(149, 29);
+            this.textBox_nombre_privado.Size = new System.Drawing.Size(148, 29);
             this.textBox_nombre_privado.TabIndex = 3;
             // 
             // comboBox_lista_canales
@@ -362,9 +362,9 @@ namespace Bot_Dofus_1._29._1.Interfaces
             this.button_limpiar_consola.Dock = System.Windows.Forms.DockStyle.Fill;
             this.button_limpiar_consola.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button_limpiar_consola.Image = ((System.Drawing.Image)(resources.GetObject("button_limpiar_consola.Image")));
-            this.button_limpiar_consola.Location = new System.Drawing.Point(731, 3);
+            this.button_limpiar_consola.Location = new System.Drawing.Point(728, 3);
             this.button_limpiar_consola.Name = "button_limpiar_consola";
-            this.button_limpiar_consola.Size = new System.Drawing.Size(56, 25);
+            this.button_limpiar_consola.Size = new System.Drawing.Size(59, 25);
             this.button_limpiar_consola.TabIndex = 1;
             this.button_limpiar_consola.UseVisualStyleBackColor = true;
             this.button_limpiar_consola.Click += new System.EventHandler(this.button_limpiar_consola_Click);
@@ -374,10 +374,10 @@ namespace Bot_Dofus_1._29._1.Interfaces
             this.textBox_enviar_consola.Dock = System.Windows.Forms.DockStyle.Fill;
             this.textBox_enviar_consola.Enabled = false;
             this.textBox_enviar_consola.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.textBox_enviar_consola.Location = new System.Drawing.Point(294, 3);
+            this.textBox_enviar_consola.Location = new System.Drawing.Point(293, 3);
             this.textBox_enviar_consola.MaxLength = 80;
             this.textBox_enviar_consola.Name = "textBox_enviar_consola";
-            this.textBox_enviar_consola.Size = new System.Drawing.Size(431, 29);
+            this.textBox_enviar_consola.Size = new System.Drawing.Size(429, 29);
             this.textBox_enviar_consola.TabIndex = 0;
             this.textBox_enviar_consola.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox_enviar_consola_KeyDown);
             // 

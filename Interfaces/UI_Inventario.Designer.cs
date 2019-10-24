@@ -57,12 +57,12 @@
             this.Pods_recursos = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.eliminar_recursos = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.tabPage_mision = new System.Windows.Forms.TabPage();
-            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.dataGridView_mision = new System.Windows.Forms.DataGridView();
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.tabControl_mision.SuspendLayout();
             this.tabPage_equipamiento.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_equipamientos)).BeginInit();
@@ -86,9 +86,10 @@
             this.tabControl_mision.ImageList = this.imageList1;
             this.tabControl_mision.ItemSize = new System.Drawing.Size(67, 26);
             this.tabControl_mision.Location = new System.Drawing.Point(0, 0);
+            this.tabControl_mision.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabControl_mision.Name = "tabControl_mision";
             this.tabControl_mision.SelectedIndex = 0;
-            this.tabControl_mision.Size = new System.Drawing.Size(790, 500);
+            this.tabControl_mision.Size = new System.Drawing.Size(1053, 615);
             this.tabControl_mision.TabIndex = 0;
             // 
             // tabPage_equipamiento
@@ -96,9 +97,10 @@
             this.tabPage_equipamiento.Controls.Add(this.dataGridView_equipamientos);
             this.tabPage_equipamiento.ImageIndex = 0;
             this.tabPage_equipamiento.Location = new System.Drawing.Point(4, 30);
+            this.tabPage_equipamiento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage_equipamiento.Name = "tabPage_equipamiento";
-            this.tabPage_equipamiento.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage_equipamiento.Size = new System.Drawing.Size(782, 466);
+            this.tabPage_equipamiento.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage_equipamiento.Size = new System.Drawing.Size(1045, 581);
             this.tabPage_equipamiento.TabIndex = 0;
             this.tabPage_equipamiento.Text = "Equipement";
             this.tabPage_equipamiento.UseVisualStyleBackColor = true;
@@ -122,12 +124,13 @@
             this.eliminar_equipamiento});
             this.dataGridView_equipamientos.Cursor = System.Windows.Forms.Cursors.Default;
             this.dataGridView_equipamientos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView_equipamientos.Location = new System.Drawing.Point(3, 3);
+            this.dataGridView_equipamientos.Location = new System.Drawing.Point(4, 4);
+            this.dataGridView_equipamientos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView_equipamientos.Name = "dataGridView_equipamientos";
             this.dataGridView_equipamientos.ReadOnly = true;
             this.dataGridView_equipamientos.RowHeadersVisible = false;
             this.dataGridView_equipamientos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView_equipamientos.Size = new System.Drawing.Size(776, 460);
+            this.dataGridView_equipamientos.Size = new System.Drawing.Size(1037, 573);
             this.dataGridView_equipamientos.TabIndex = 0;
             this.dataGridView_equipamientos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_equipamientos_CellContentClick);
             // 
@@ -138,7 +141,7 @@
             this.id_Inventario_equipamiento.MinimumWidth = 110;
             this.id_Inventario_equipamiento.Name = "id_Inventario_equipamiento";
             this.id_Inventario_equipamiento.ReadOnly = true;
-            this.id_Inventario_equipamiento.Width = 110;
+            this.id_Inventario_equipamiento.Width = 137;
             // 
             // id_modelo_equipamiento
             // 
@@ -148,7 +151,7 @@
             this.id_modelo_equipamiento.MinimumWidth = 90;
             this.id_modelo_equipamiento.Name = "id_modelo_equipamiento";
             this.id_modelo_equipamiento.ReadOnly = true;
-            this.id_modelo_equipamiento.Width = 95;
+            this.id_modelo_equipamiento.Width = 109;
             // 
             // nombre_equipamiento
             // 
@@ -167,7 +170,7 @@
             this.cantidad_equipamiento.MinimumWidth = 80;
             this.cantidad_equipamiento.Name = "cantidad_equipamiento";
             this.cantidad_equipamiento.ReadOnly = true;
-            this.cantidad_equipamiento.Width = 85;
+            this.cantidad_equipamiento.Width = 106;
             // 
             // posicion_equipamiento
             // 
@@ -193,15 +196,17 @@
             this.eliminar_equipamiento.MinimumWidth = 100;
             this.eliminar_equipamiento.Name = "eliminar_equipamiento";
             this.eliminar_equipamiento.ReadOnly = true;
+            this.eliminar_equipamiento.Width = 112;
             // 
             // tabPage_varios
             // 
             this.tabPage_varios.Controls.Add(this.dataGridView_varios);
             this.tabPage_varios.ImageIndex = 1;
             this.tabPage_varios.Location = new System.Drawing.Point(4, 30);
+            this.tabPage_varios.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage_varios.Name = "tabPage_varios";
-            this.tabPage_varios.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage_varios.Size = new System.Drawing.Size(782, 466);
+            this.tabPage_varios.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage_varios.Size = new System.Drawing.Size(1045, 581);
             this.tabPage_varios.TabIndex = 1;
             this.tabPage_varios.Text = "Divers";
             this.tabPage_varios.UseVisualStyleBackColor = true;
@@ -224,12 +229,13 @@
             this.eliminar_varios});
             this.dataGridView_varios.Cursor = System.Windows.Forms.Cursors.Default;
             this.dataGridView_varios.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView_varios.Location = new System.Drawing.Point(3, 3);
+            this.dataGridView_varios.Location = new System.Drawing.Point(4, 4);
+            this.dataGridView_varios.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView_varios.Name = "dataGridView_varios";
             this.dataGridView_varios.ReadOnly = true;
             this.dataGridView_varios.RowHeadersVisible = false;
             this.dataGridView_varios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView_varios.Size = new System.Drawing.Size(776, 460);
+            this.dataGridView_varios.Size = new System.Drawing.Size(1037, 573);
             this.dataGridView_varios.TabIndex = 2;
             // 
             // id_inventario_varios
@@ -239,7 +245,7 @@
             this.id_inventario_varios.MinimumWidth = 110;
             this.id_inventario_varios.Name = "id_inventario_varios";
             this.id_inventario_varios.ReadOnly = true;
-            this.id_inventario_varios.Width = 110;
+            this.id_inventario_varios.Width = 137;
             // 
             // id_modelo_varios
             // 
@@ -248,6 +254,7 @@
             this.id_modelo_varios.MinimumWidth = 100;
             this.id_modelo_varios.Name = "id_modelo_varios";
             this.id_modelo_varios.ReadOnly = true;
+            this.id_modelo_varios.Width = 119;
             // 
             // nombre_varios
             // 
@@ -264,6 +271,7 @@
             this.cantidad_varios.MinimumWidth = 100;
             this.cantidad_varios.Name = "cantidad_varios";
             this.cantidad_varios.ReadOnly = true;
+            this.cantidad_varios.Width = 106;
             // 
             // pods_varios
             // 
@@ -278,17 +286,19 @@
             this.eliminar_varios.MinimumWidth = 100;
             this.eliminar_varios.Name = "eliminar_varios";
             this.eliminar_varios.ReadOnly = true;
+            this.eliminar_varios.Width = 112;
             // 
             // tabPage_recursos
             // 
             this.tabPage_recursos.Controls.Add(this.dataGridView_recursos);
             this.tabPage_recursos.ImageIndex = 2;
             this.tabPage_recursos.Location = new System.Drawing.Point(4, 30);
+            this.tabPage_recursos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage_recursos.Name = "tabPage_recursos";
-            this.tabPage_recursos.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage_recursos.Size = new System.Drawing.Size(782, 466);
+            this.tabPage_recursos.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage_recursos.Size = new System.Drawing.Size(1045, 581);
             this.tabPage_recursos.TabIndex = 2;
-            this.tabPage_recursos.Text = "Recursos";
+            this.tabPage_recursos.Text = "Ressources";
             this.tabPage_recursos.UseVisualStyleBackColor = true;
             // 
             // dataGridView_recursos
@@ -309,12 +319,13 @@
             this.eliminar_recursos});
             this.dataGridView_recursos.Cursor = System.Windows.Forms.Cursors.Default;
             this.dataGridView_recursos.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView_recursos.Location = new System.Drawing.Point(3, 3);
+            this.dataGridView_recursos.Location = new System.Drawing.Point(4, 4);
+            this.dataGridView_recursos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView_recursos.Name = "dataGridView_recursos";
             this.dataGridView_recursos.ReadOnly = true;
             this.dataGridView_recursos.RowHeadersVisible = false;
             this.dataGridView_recursos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView_recursos.Size = new System.Drawing.Size(776, 460);
+            this.dataGridView_recursos.Size = new System.Drawing.Size(1037, 573);
             this.dataGridView_recursos.TabIndex = 1;
             this.dataGridView_recursos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_recursos_CellContentClick);
             // 
@@ -325,7 +336,7 @@
             this.id_inventario_recursos.MinimumWidth = 110;
             this.id_inventario_recursos.Name = "id_inventario_recursos";
             this.id_inventario_recursos.ReadOnly = true;
-            this.id_inventario_recursos.Width = 110;
+            this.id_inventario_recursos.Width = 137;
             // 
             // id_modelo_recursos
             // 
@@ -334,6 +345,7 @@
             this.id_modelo_recursos.MinimumWidth = 100;
             this.id_modelo_recursos.Name = "id_modelo_recursos";
             this.id_modelo_recursos.ReadOnly = true;
+            this.id_modelo_recursos.Width = 109;
             // 
             // nombre_recursos
             // 
@@ -350,6 +362,7 @@
             this.cantidad_recursos.MinimumWidth = 100;
             this.cantidad_recursos.Name = "cantidad_recursos";
             this.cantidad_recursos.ReadOnly = true;
+            this.cantidad_recursos.Width = 106;
             // 
             // Pods_recursos
             // 
@@ -364,27 +377,20 @@
             this.eliminar_recursos.MinimumWidth = 100;
             this.eliminar_recursos.Name = "eliminar_recursos";
             this.eliminar_recursos.ReadOnly = true;
+            this.eliminar_recursos.Width = 112;
             // 
             // tabPage_mision
             // 
             this.tabPage_mision.Controls.Add(this.dataGridView_mision);
             this.tabPage_mision.ImageIndex = 3;
             this.tabPage_mision.Location = new System.Drawing.Point(4, 30);
+            this.tabPage_mision.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tabPage_mision.Name = "tabPage_mision";
-            this.tabPage_mision.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage_mision.Size = new System.Drawing.Size(782, 466);
+            this.tabPage_mision.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage_mision.Size = new System.Drawing.Size(1045, 581);
             this.tabPage_mision.TabIndex = 3;
-            this.tabPage_mision.Text = "Objetos de misión";
+            this.tabPage_mision.Text = "Objets de Quêtes";
             this.tabPage_mision.UseVisualStyleBackColor = true;
-            // 
-            // imageList1
-            // 
-            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
-            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
-            this.imageList1.Images.SetKeyName(0, "espada.png");
-            this.imageList1.Images.SetKeyName(1, "pocion.png");
-            this.imageList1.Images.SetKeyName(2, "recursos.png");
-            this.imageList1.Images.SetKeyName(3, "llave.png");
             // 
             // dataGridView_mision
             // 
@@ -402,12 +408,13 @@
             this.dataGridViewTextBoxColumn4});
             this.dataGridView_mision.Cursor = System.Windows.Forms.Cursors.Default;
             this.dataGridView_mision.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dataGridView_mision.Location = new System.Drawing.Point(3, 3);
+            this.dataGridView_mision.Location = new System.Drawing.Point(4, 4);
+            this.dataGridView_mision.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView_mision.Name = "dataGridView_mision";
             this.dataGridView_mision.ReadOnly = true;
             this.dataGridView_mision.RowHeadersVisible = false;
             this.dataGridView_mision.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView_mision.Size = new System.Drawing.Size(776, 460);
+            this.dataGridView_mision.Size = new System.Drawing.Size(1037, 573);
             this.dataGridView_mision.TabIndex = 2;
             // 
             // dataGridViewTextBoxColumn1
@@ -417,7 +424,7 @@
             this.dataGridViewTextBoxColumn1.MinimumWidth = 110;
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             this.dataGridViewTextBoxColumn1.ReadOnly = true;
-            this.dataGridViewTextBoxColumn1.Width = 110;
+            this.dataGridViewTextBoxColumn1.Width = 138;
             // 
             // dataGridViewTextBoxColumn2
             // 
@@ -426,6 +433,7 @@
             this.dataGridViewTextBoxColumn2.MinimumWidth = 100;
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
             this.dataGridViewTextBoxColumn2.ReadOnly = true;
+            this.dataGridViewTextBoxColumn2.Width = 119;
             // 
             // dataGridViewTextBoxColumn3
             // 
@@ -443,14 +451,25 @@
             this.dataGridViewTextBoxColumn4.MinimumWidth = 100;
             this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
             this.dataGridViewTextBoxColumn4.ReadOnly = true;
+            this.dataGridViewTextBoxColumn4.Width = 106;
+            // 
+            // imageList1
+            // 
+            this.imageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList1.ImageStream")));
+            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageList1.Images.SetKeyName(0, "espada.png");
+            this.imageList1.Images.SetKeyName(1, "pocion.png");
+            this.imageList1.Images.SetKeyName(2, "recursos.png");
+            this.imageList1.Images.SetKeyName(3, "llave.png");
             // 
             // UI_Inventario
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.tabControl_mision);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "UI_Inventario";
-            this.Size = new System.Drawing.Size(790, 500);
+            this.Size = new System.Drawing.Size(1053, 615);
             this.tabControl_mision.ResumeLayout(false);
             this.tabPage_equipamiento.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_equipamientos)).EndInit();

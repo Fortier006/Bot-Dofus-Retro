@@ -169,11 +169,11 @@
             this.tableLayoutPanel3.Controls.Add(this.label2, 0, 0);
             this.tableLayoutPanel3.Controls.Add(this.comboBox_lista_tactica, 1, 0);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 21);
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 25);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(724, 89);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(724, 85);
             this.tableLayoutPanel3.TabIndex = 1;
             // 
             // label2
@@ -183,7 +183,7 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(3, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(70, 89);
+            this.label2.Size = new System.Drawing.Size(70, 85);
             this.label2.TabIndex = 0;
             this.label2.Text = "Tactique:";
             // 
@@ -198,7 +198,7 @@
             "Fugitif"});
             this.comboBox_lista_tactica.Location = new System.Drawing.Point(79, 3);
             this.comboBox_lista_tactica.Name = "comboBox_lista_tactica";
-            this.comboBox_lista_tactica.Size = new System.Drawing.Size(642, 25);
+            this.comboBox_lista_tactica.Size = new System.Drawing.Size(642, 29);
             this.comboBox_lista_tactica.TabIndex = 1;
             this.comboBox_lista_tactica.SelectedIndexChanged += new System.EventHandler(this.comboBox_lista_tactica_SelectedIndexChanged);
             // 
@@ -275,7 +275,7 @@
             this.groupBox_preparacion.Size = new System.Drawing.Size(730, 160);
             this.groupBox_preparacion.TabIndex = 0;
             this.groupBox_preparacion.TabStop = false;
-            this.groupBox_preparacion.Text = "Preparación";
+            this.groupBox_preparacion.Text = "Préparation";
             // 
             // tableLayoutPanel2
             // 
@@ -285,11 +285,11 @@
             this.tableLayoutPanel2.Controls.Add(this.comboBox_lista_posicionamiento, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.label1, 0, 0);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 21);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 25);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(724, 136);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(724, 132);
             this.tableLayoutPanel2.TabIndex = 0;
             // 
             // comboBox_lista_posicionamiento
@@ -303,7 +303,7 @@
             "Pas de déplacement"});
             this.comboBox_lista_posicionamiento.Location = new System.Drawing.Point(341, 3);
             this.comboBox_lista_posicionamiento.Name = "comboBox_lista_posicionamiento";
-            this.comboBox_lista_posicionamiento.Size = new System.Drawing.Size(380, 25);
+            this.comboBox_lista_posicionamiento.Size = new System.Drawing.Size(380, 29);
             this.comboBox_lista_posicionamiento.TabIndex = 2;
             this.comboBox_lista_posicionamiento.SelectedIndexChanged += new System.EventHandler(this.comboBox_lista_posicionamiento_SelectedIndexChanged);
             // 
@@ -314,7 +314,7 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(332, 136);
+            this.label1.Size = new System.Drawing.Size(332, 132);
             this.label1.TabIndex = 1;
             this.label1.Text = "Positionnement en début de combat:";
             // 
@@ -342,11 +342,11 @@
             this.tableLayoutPanel4.Controls.Add(this.label_mensaje_regeneracion_1, 2, 0);
             this.tableLayoutPanel4.Controls.Add(this.numericUp_regeneracion1, 1, 0);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 21);
+            this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 25);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 1;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(724, 63);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(724, 59);
             this.tableLayoutPanel4.TabIndex = 1;
             // 
             // numericUp_regeneracion2
@@ -354,7 +354,7 @@
             this.numericUp_regeneracion2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.numericUp_regeneracion2.Location = new System.Drawing.Point(545, 3);
             this.numericUp_regeneracion2.Name = "numericUp_regeneracion2";
-            this.numericUp_regeneracion2.Size = new System.Drawing.Size(176, 25);
+            this.numericUp_regeneracion2.Size = new System.Drawing.Size(176, 29);
             this.numericUp_regeneracion2.TabIndex = 3;
             this.numericUp_regeneracion2.Value = new decimal(new int[] {
             100,
@@ -368,7 +368,7 @@
             this.label_mensaje_regeneracion.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label_mensaje_regeneracion.Location = new System.Drawing.Point(3, 0);
             this.label_mensaje_regeneracion.Name = "label_mensaje_regeneracion";
-            this.label_mensaje_regeneracion.Size = new System.Drawing.Size(353, 63);
+            this.label_mensaje_regeneracion.Size = new System.Drawing.Size(353, 59);
             this.label_mensaje_regeneracion.TabIndex = 0;
             this.label_mensaje_regeneracion.Text = "Régénérer si les points de vie sont inférieurs ou égaux à";
             // 
@@ -377,9 +377,9 @@
             this.label_mensaje_regeneracion_1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label_mensaje_regeneracion_1.Location = new System.Drawing.Point(498, 0);
             this.label_mensaje_regeneracion_1.Name = "label_mensaje_regeneracion_1";
-            this.label_mensaje_regeneracion_1.Size = new System.Drawing.Size(41, 63);
+            this.label_mensaje_regeneracion_1.Size = new System.Drawing.Size(41, 59);
             this.label_mensaje_regeneracion_1.TabIndex = 2;
-            this.label_mensaje_regeneracion_1.Text = "jusqu'à";
+            this.label_mensaje_regeneracion_1.Text = "jusqu\'à";
             // 
             // numericUp_regeneracion1
             // 
@@ -392,7 +392,7 @@
             0,
             0});
             this.numericUp_regeneracion1.Name = "numericUp_regeneracion1";
-            this.numericUp_regeneracion1.Size = new System.Drawing.Size(130, 25);
+            this.numericUp_regeneracion1.Size = new System.Drawing.Size(130, 29);
             this.numericUp_regeneracion1.TabIndex = 1;
             this.numericUp_regeneracion1.Value = new decimal(new int[] {
             50,
@@ -456,7 +456,7 @@
             this.tabPage_hechizos_pelea.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tabPage_hechizos_pelea.Size = new System.Drawing.Size(742, 546);
             this.tabPage_hechizos_pelea.TabIndex = 1;
-            this.tabPage_hechizos_pelea.Text = "Hechizos";
+            this.tabPage_hechizos_pelea.Text = "Sorts";
             this.tabPage_hechizos_pelea.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel6
@@ -606,14 +606,14 @@
             this.tableLayoutPanel9.Controls.Add(this.label7, 0, 2);
             this.tableLayoutPanel9.Controls.Add(this.numeric_lanzamientos_turno, 1, 2);
             this.tableLayoutPanel9.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel9.Location = new System.Drawing.Point(3, 21);
+            this.tableLayoutPanel9.Location = new System.Drawing.Point(3, 25);
             this.tableLayoutPanel9.Name = "tableLayoutPanel9";
             this.tableLayoutPanel9.RowCount = 4;
             this.tableLayoutPanel9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel9.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel9.Size = new System.Drawing.Size(730, 128);
+            this.tableLayoutPanel9.Size = new System.Drawing.Size(730, 124);
             this.tableLayoutPanel9.TabIndex = 2;
             // 
             // comboBox_modo_lanzamiento
@@ -625,9 +625,9 @@
             "CAC",
             "DISTANCE",
             "LES DEUX"});
-            this.comboBox_modo_lanzamiento.Location = new System.Drawing.Point(326, 99);
+            this.comboBox_modo_lanzamiento.Location = new System.Drawing.Point(326, 96);
             this.comboBox_modo_lanzamiento.Name = "comboBox_modo_lanzamiento";
-            this.comboBox_modo_lanzamiento.Size = new System.Drawing.Size(401, 25);
+            this.comboBox_modo_lanzamiento.Size = new System.Drawing.Size(401, 29);
             this.comboBox_modo_lanzamiento.TabIndex = 8;
             // 
             // label3
@@ -636,9 +636,9 @@
             this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.label3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label3.Location = new System.Drawing.Point(3, 96);
+            this.label3.Location = new System.Drawing.Point(3, 93);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(317, 32);
+            this.label3.Size = new System.Drawing.Size(317, 31);
             this.label3.TabIndex = 7;
             this.label3.Text = "Méthode de lancement";
             // 
@@ -647,9 +647,9 @@
             this.label6.AutoSize = true;
             this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(3, 32);
+            this.label6.Location = new System.Drawing.Point(3, 31);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(317, 32);
+            this.label6.Size = new System.Drawing.Size(317, 31);
             this.label6.TabIndex = 3;
             this.label6.Text = "Focus:";
             // 
@@ -660,7 +660,7 @@
             this.label5.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.label5.Location = new System.Drawing.Point(3, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(317, 32);
+            this.label5.Size = new System.Drawing.Size(317, 31);
             this.label5.TabIndex = 0;
             this.label5.Text = "Envoûtement:";
             // 
@@ -671,7 +671,7 @@
             this.comboBox_lista_hechizos.FormattingEnabled = true;
             this.comboBox_lista_hechizos.Location = new System.Drawing.Point(326, 3);
             this.comboBox_lista_hechizos.Name = "comboBox_lista_hechizos";
-            this.comboBox_lista_hechizos.Size = new System.Drawing.Size(401, 25);
+            this.comboBox_lista_hechizos.Size = new System.Drawing.Size(401, 29);
             this.comboBox_lista_hechizos.TabIndex = 1;
             // 
             // comboBox_focus_hechizo
@@ -684,9 +684,9 @@
             "Allié",
             "Moi",
             "Cellule vide"});
-            this.comboBox_focus_hechizo.Location = new System.Drawing.Point(326, 35);
+            this.comboBox_focus_hechizo.Location = new System.Drawing.Point(326, 34);
             this.comboBox_focus_hechizo.Name = "comboBox_focus_hechizo";
-            this.comboBox_focus_hechizo.Size = new System.Drawing.Size(401, 25);
+            this.comboBox_focus_hechizo.Size = new System.Drawing.Size(401, 29);
             this.comboBox_focus_hechizo.TabIndex = 4;
             // 
             // label7
@@ -695,23 +695,23 @@
             this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.label7.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.label7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label7.Location = new System.Drawing.Point(3, 64);
+            this.label7.Location = new System.Drawing.Point(3, 62);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(317, 32);
+            this.label7.Size = new System.Drawing.Size(317, 31);
             this.label7.TabIndex = 5;
             this.label7.Text = "Nombre de lancement par tours";
             // 
             // numeric_lanzamientos_turno
             // 
             this.numeric_lanzamientos_turno.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.numeric_lanzamientos_turno.Location = new System.Drawing.Point(326, 67);
+            this.numeric_lanzamientos_turno.Location = new System.Drawing.Point(326, 65);
             this.numeric_lanzamientos_turno.Maximum = new decimal(new int[] {
             10,
             0,
             0,
             0});
             this.numeric_lanzamientos_turno.Name = "numeric_lanzamientos_turno";
-            this.numeric_lanzamientos_turno.Size = new System.Drawing.Size(401, 25);
+            this.numeric_lanzamientos_turno.Size = new System.Drawing.Size(401, 29);
             this.numeric_lanzamientos_turno.TabIndex = 6;
             this.numeric_lanzamientos_turno.Value = new decimal(new int[] {
             1,
@@ -750,7 +750,7 @@
             // 
             // UI_Pelea
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.tabControl1);
             this.Font = new System.Drawing.Font("Segoe UI", 9.75F);

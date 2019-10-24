@@ -1,4 +1,5 @@
-﻿using Bot_Dofus_1._29._1.Forms;
+﻿using Bot_Dofus_1._29._1.DiscordBot;
+using Bot_Dofus_1._29._1.Forms;
 using Bot_Dofus_1._29._1.Otros;
 using Bot_Dofus_1._29._1.Otros.Enums;
 using Bot_Dofus_1._29._1.Otros.Game.Personaje;
@@ -22,12 +23,29 @@ namespace Bot_Dofus_1._29._1.Interfaces
     {
         private Cuenta cuenta;
         private string nombre_cuenta;
+        private bool m_scriptActive = false;
+        public event ScriptActivationHandler OnScriptActivation;
+
+        public bool ScriptActive
+        {
+            get { return m_scriptActive; }
+            set
+            {
+                m_scriptActive = value;
+                if(OnScriptActivation != null)
+                {
+                    OnScriptActivation(this, new DiscordBot.CustomEventArgs("Script Activation has changed to " + m_scriptActive.ToString()));
+                }
+            }
+        }
 
         public UI_Principal(Cuenta _cuenta)
         {
             InitializeComponent();
             cuenta = _cuenta;
-            nombre_cuenta = cuenta.configuracion.nombre_cuenta; ;
+            nombre_cuenta = cuenta.configuracion.nombre_cuenta;
+
+            Program.m_bot.CommandHandler.OnToggleScript += ToggleScript;
         }
 
         private void UI_Principal_Load(object sender, EventArgs e)
@@ -331,10 +349,7 @@ namespace Bot_Dofus_1._29._1.Interfaces
         #region Scripts
         private void iniciarScriptToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (!cuenta.script.activado)
-                cuenta.script.activar_Script();
-            else
-                cuenta.script.detener_Script();
+            ToggleScript(this, new CustomEventArgs("System triggered script."));            
         }
 
         private void evento_Scripts_Cargado(string nombre)
@@ -370,6 +385,20 @@ namespace Bot_Dofus_1._29._1.Interfaces
                 cargarScriptToolStripMenuItem.Enabled = true;
                 ScriptTituloStripMenuItem.Text = "-";
             }));
+        }
+
+        private void ToggleScript(object source, CustomEventArgs e)
+        {
+            if (!cuenta.script.activado)
+            {
+                cuenta.script.activar_Script();
+                m_scriptActive = true;
+            }
+            else
+            {
+                cuenta.script.detener_Script();
+                m_scriptActive = false;
+            }
         }
         #endregion
     }

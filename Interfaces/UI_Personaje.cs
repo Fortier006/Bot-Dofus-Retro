@@ -63,7 +63,7 @@ namespace Bot_Dofus_1._29._1.Interfaces
 
                 //Otros
                 label_capital_stats.Text = cuenta.juego.personaje.puntos_caracteristicas.ToString();
-                label_nivel_personaje.Text = $"Nivel {cuenta.juego.personaje.nivel}";
+                label_nivel_personaje.Text = $"Niveau {cuenta.juego.personaje.nivel}";
             }));
         }
     }
